@@ -97,11 +97,13 @@ export default function TablaCriaturas() {
         const clean = (str: string) =>
             str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
-        return data.filter((criatura) =>
-            clean(criatura.nombre).includes(clean(search))
-        );
-    }, [search, data]);
+        const words = clean(search).split(/\s+/).filter(Boolean);
 
+        return data.filter((criatura) => {
+            const nombre = clean(criatura.nombre);
+            return words.every((word) => nombre.includes(word));
+        });
+    }, [search, data]);
 
     useEffect(() => {
         import("@/app/data/criaturas.json").then((mod) => {

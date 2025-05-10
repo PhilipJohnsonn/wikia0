@@ -66,9 +66,12 @@ export default function TablaDrops() {
     const clean = (str: string) =>
       str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
-    return data.filter((row) =>
-      clean(row.drop).includes(clean(search))
-    );
+    const words = clean(search).split(/\s+/).filter(Boolean);
+
+    return data.filter((row) => {
+      const drop = clean(row.drop);
+      return words.every((word) => drop.includes(word));
+    });
   }, [search, data]);
 
   const columns: ColumnDef<DropRow>[] = [
