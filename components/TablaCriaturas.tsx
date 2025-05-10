@@ -6,6 +6,8 @@ import { DataTable } from "@/components/ui/data-table";
 import { Card } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Input } from "./ui/input";
+import { access } from "fs";
+import { headers } from "next/headers";
 
 interface Drop {
     nombre: string;
@@ -83,7 +85,11 @@ const columns: ColumnDef<Criatura>[] = [
                 ))}
             </div>
         )
-    }
+    }, {
+        accessorKey: "timer",
+        header: "Timer",
+        cell: 'Tocame'
+    },
 ];
 
 export default function TablaCriaturas() {
