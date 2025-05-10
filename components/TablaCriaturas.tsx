@@ -6,8 +6,8 @@ import { DataTable } from "@/components/ui/data-table";
 import { Card } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Input } from "./ui/input";
-import { access } from "fs";
-import { headers } from "next/headers";
+import { Button } from "./ui/button";
+import { toast } from "sonner"
 
 interface Drop {
     nombre: string;
@@ -21,9 +21,10 @@ interface Criatura {
     exp: number;
     oro: number;
     imageUrl: string;
-    respawnMin: number;
-    respawnMax: number;
-    respawnUnidad: string;
+    respawnMin: string;
+    respawnMax: string;
+    respawnMinSeg: number;
+    respawnMaxSeg: number;
     drops: Drop[];
 }
 
@@ -58,11 +59,99 @@ const columns: ColumnDef<Criatura>[] = [
         accessorKey: "respawn",
         header: "Respawn",
         cell: ({ row }) => {
-            const { respawnMin, respawnMax, respawnUnidad } = row.original;
             return (
                 <span>
-                    {respawnMin}{respawnUnidad} – {respawnMax}{respawnUnidad}
+                    {row.original.respawnMin} - {row.original.respawnMax}
                 </span>
+            );
+        }
+    },
+    {
+        accessorKey: "timer",
+        header: "Timer",
+        cell: ({ row }) => {
+            const [seconds, setSeconds] = React.useState(0);
+            const [running, setRunning] = React.useState(false);
+            const [finished, setFinished] = React.useState(false);
+
+            const respawnMin = row.original.respawnMinSeg;
+            const respawnMax = row.original.respawnMaxSeg;
+
+            const localKey = `timer_${row.original.nombre.replace(/\s+/g, "_")}`;
+
+            // Restaurar desde localStorage
+            useEffect(() => {
+                const savedStart = localStorage.getItem(localKey);
+                if (savedStart) {
+                    const startTime = parseInt(savedStart);
+                    const elapsed = Math.floor((Date.now() - startTime) / 1000);
+                    const remaining = respawnMax - elapsed;
+
+                    if (remaining > 0) {
+                        setSeconds(remaining);
+                        setRunning(true);
+                        setFinished(false);
+                    } else {
+                        setSeconds(0);
+                        setRunning(false);
+                        setFinished(true);
+                    }
+                }
+            }, []);
+
+            useEffect(() => {
+                if (!running || seconds <= 0) {
+                    if (seconds <= 0 && running) {
+                        setRunning(false);
+                        setFinished(true);
+                        localStorage.removeItem(localKey);
+                        toast.success(`${row.original.nombre} ya respawneó`, {
+                            duration: Infinity,
+                            dismissible: true,
+                            closeButton: true,
+                        });
+
+                    }
+                    return;
+                }
+
+                const interval = setInterval(() => {
+                    setSeconds((s) => s - 1);
+                }, 1000);
+
+                return () => clearInterval(interval);
+            }, [running, seconds]);
+
+            const start = () => {
+                const now = Date.now();
+                localStorage.setItem(localKey, now.toString());
+                setSeconds(respawnMax);
+                setRunning(true);
+                setFinished(false);
+            };
+
+            const getColor = () => {
+                if (seconds <= respawnMin) return "text-green-600 font-bold";
+                return "text-foreground";
+            };
+
+            return (
+                <div className="flex flex-wrap items-center gap-2">
+                    {running ? (
+                        <span className={`text-sm ${getColor()}`}>
+                            {seconds > 0 ? `${seconds}s` : "Listo"}
+                        </span>
+                    ) : finished ? (
+                        <>
+                            <span className="text-sm text-green-600 font-bold">Listo</span>
+                            <Button onClick={start} size="sm" variant="secondary">
+                                Reiniciar
+                            </Button>
+                        </>
+                    ) : (
+                        <Button onClick={start} size="sm">Iniciar</Button>
+                    )}
+                </div>
             );
         }
     },
@@ -85,10 +174,6 @@ const columns: ColumnDef<Criatura>[] = [
                 ))}
             </div>
         )
-    }, {
-        accessorKey: "timer",
-        header: "Timer",
-        cell: 'Tocame'
     },
 ];
 

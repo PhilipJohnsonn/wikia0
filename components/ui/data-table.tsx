@@ -39,8 +39,8 @@ export function DataTable<TData, TValue>({ columns, data, }: DataTableProps<TDat
                                             header.column.id === "nombre"
                                                 ? "w-[12%]"
                                                 : header.column.id === "drops"
-                                                    ? "w-[64%]"
-                                                    : "w-[6%]"
+                                                    ? "w-[59%]"
+                                                    : "w-[7%]"
                                         }
                                     >
                                         {header.isPlaceholder

@@ -1,18 +1,19 @@
 [
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/70.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 5,
 		"exp": 17,
 		"nombre": "Hormiga",
-		"oro": 5
+		"oro": 5,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -21,37 +22,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/5.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 10,
 		"exp": 28,
 		"nombre": "Gallo Salvaje",
-		"oro": 10
+		"oro": 10,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 2,
+		"respawnMaxSeg": 2,
+		"respawnMin": "2s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/71.png",
-		"respawnMax": 2,
+		"respawnMax": "2s",
 		"hp": 15,
 		"exp": 40,
 		"nombre": "Rata",
-		"oro": 15
+		"oro": 15,
+		"respawnMinSeg": 2
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/9.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 15,
 		"exp": 35,
 		"nombre": "Murciélago",
-		"oro": 15
+		"oro": 15,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -60,26 +64,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/13.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 18,
 		"exp": 46,
 		"nombre": "Serpiente",
-		"oro": 18
+		"oro": 18,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/466.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 18,
 		"exp": 39,
 		"nombre": "Murciélago",
-		"oro": 18
+		"oro": 18,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 2,
+		"respawnMaxSeg": 2,
+		"respawnMin": "2s",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -88,15 +94,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/59.png",
-		"respawnMax": 2,
+		"respawnMax": "2s",
 		"hp": 20,
 		"exp": 52,
 		"nombre": "Águila",
-		"oro": 20
+		"oro": 20,
+		"respawnMinSeg": 2
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -105,48 +112,52 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/278.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 27,
 		"exp": 70,
 		"nombre": "Gallina Salvaje",
-		"oro": 27
+		"oro": 27,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/68.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 30,
 		"exp": 84,
 		"nombre": "Cuervo",
-		"oro": 30
+		"oro": 30,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/51.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 32,
 		"exp": 81,
 		"nombre": "Escorpión",
-		"oro": 32
+		"oro": 32,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 10,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/12.png",
-		"respawnMax": 10,
+		"respawnMax": "10s",
 		"hp": 50,
 		"exp": 128,
 		"nombre": "Esqueleto",
-		"oro": 50
+		"oro": 50,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -160,15 +171,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/465.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 55,
 		"exp": 292,
 		"nombre": "Cría Arácnida",
-		"oro": 55
+		"oro": 55,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -182,15 +194,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/10.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 75,
 		"exp": 204,
 		"nombre": "Lobo",
-		"oro": 75
+		"oro": 75,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 5,
+		"respawnMaxSeg": 10,
+		"respawnMin": "5s",
 		"drops": [
 			{
 				"porcentaje": "2",
@@ -199,70 +212,76 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/465.png",
-		"respawnMax": 10,
+		"respawnMax": "10s",
 		"hp": 75,
 		"exp": 325,
 		"nombre": "Cría Arácnida",
-		"oro": 75
+		"oro": 75,
+		"respawnMinSeg": 5
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/14.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 110,
 		"exp": 269,
 		"nombre": "Goblin",
-		"oro": 110
+		"oro": 110,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 2,
+		"respawnMaxSeg": 2,
+		"respawnMin": "2s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/476.png",
-		"respawnMax": 2,
+		"respawnMax": "2s",
 		"hp": 150,
 		"exp": 688,
 		"nombre": "Murciélago Mutante",
-		"oro": 150
+		"oro": 150,
+		"respawnMinSeg": 2
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 3,
+		"respawnMaxSeg": 3,
+		"respawnMin": "3s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/464.png",
-		"respawnMax": 3,
+		"respawnMax": "3s",
 		"hp": 180,
 		"exp": 858,
 		"nombre": "Sierpe",
-		"oro": 180
+		"oro": 180,
+		"respawnMinSeg": 3
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/405.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 200,
 		"exp": 479,
 		"nombre": "Esqueleto Guerrero",
-		"oro": 200
+		"oro": 200,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/75.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 210,
 		"exp": 491,
 		"nombre": "Duende",
-		"oro": 210
+		"oro": 210,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -276,70 +295,76 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/284.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 225,
 		"exp": 655,
 		"nombre": "Lobo Invernal",
-		"oro": 225
+		"oro": 225,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/43.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 320,
 		"exp": 748,
 		"nombre": "Orco",
-		"oro": 320
+		"oro": 320,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/141.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 320,
 		"exp": 748,
 		"nombre": "Zombie",
-		"oro": 320
+		"oro": 320,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 36,
+		"respawnMaxSeg": 72,
+		"respawnMin": "36s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/448.png",
-		"respawnMax": 112,
+		"respawnMax": "1m 12s",
 		"hp": 340,
 		"exp": 819,
 		"nombre": "Zombie Lóbrego",
-		"oro": 340
+		"oro": 340,
+		"respawnMinSeg": 36
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/478.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 350,
 		"exp": 1638,
 		"nombre": "Sertlac",
-		"oro": 350
+		"oro": 350,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/424.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 350,
 		"exp": 819,
 		"nombre": "Bandido",
-		"oro": 350
+		"oro": 350,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 10,
+		"respawnMin": "6s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -358,15 +383,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/423.png",
-		"respawnMax": 10,
+		"respawnMax": "10s",
 		"hp": 400,
 		"exp": 702,
 		"nombre": "Señor de las Sombras",
-		"oro": 400
+		"oro": 400,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 10,
+		"respawnMin": "6s",
 		"drops": [
 			{
 				"porcentaje": "20",
@@ -380,37 +406,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/74.png",
-		"respawnMax": 10,
+		"respawnMax": "10s",
 		"hp": 480,
 		"exp": 1123,
 		"nombre": "Tortuga Gigante",
-		"oro": 480
+		"oro": 480,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 5,
+		"respawnMaxSeg": 8,
+		"respawnMin": "5s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/461.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 480,
 		"exp": 2070,
 		"nombre": "Mano Peluda",
-		"oro": 480
+		"oro": 480,
+		"respawnMinSeg": 5
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/161.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 550,
 		"exp": 1345,
 		"nombre": "Lord Zombie",
-		"oro": 550
+		"oro": 550,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -434,15 +463,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/273.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 650,
 		"exp": 1579,
 		"nombre": "Ent",
-		"oro": 650
+		"oro": 650,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -451,48 +481,52 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/147.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 700,
 		"exp": 1755,
 		"nombre": "Tigre",
-		"oro": 700
+		"oro": 700,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/414.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 800,
 		"exp": 2500,
 		"nombre": "Huargo de Nieve",
-		"oro": 800
+		"oro": 800,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1346.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 800,
 		"exp": 2500,
 		"nombre": "Asolador Congelado",
-		"oro": 800
+		"oro": 800,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/48.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 850,
 		"exp": 2223,
 		"nombre": "Asesino",
-		"oro": 850
+		"oro": 850,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -506,15 +540,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/73.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 920,
 		"exp": 2164,
 		"nombre": "Oso Pardo",
-		"oro": 920
+		"oro": 920,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -528,59 +563,64 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/42.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 950,
 		"exp": 2223,
 		"nombre": "Araña Gigante",
-		"oro": 950
+		"oro": 950,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/172.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1000,
 		"exp": 3800,
 		"nombre": "Protector",
-		"oro": 1000
+		"oro": 1000,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/406.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1000,
 		"exp": 2340,
 		"nombre": "Jabalí Salvaje",
-		"oro": 1000
+		"oro": 1000,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/167.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 1100,
 		"exp": 3042,
 		"nombre": "Basilisco",
-		"oro": 1100
+		"oro": 1100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/64.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 1100,
 		"exp": 3042,
 		"nombre": "Zombie Imperial",
-		"oro": 1100
+		"oro": 1100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 10,
+		"respawnMaxSeg": 18,
+		"respawnMin": "10s",
 		"drops": [
 			{
 				"porcentaje": "8",
@@ -594,15 +634,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1276.png",
-		"respawnMax": 18,
+		"respawnMax": "18s",
 		"hp": 1100,
 		"exp": 4400,
 		"nombre": "Ryuji",
-		"oro": 1100
+		"oro": 1100,
+		"respawnMinSeg": 10
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 90,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.8",
@@ -616,15 +657,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/498.png",
-		"respawnMax": 130,
+		"respawnMax": "1m 30s",
 		"hp": 1200,
 		"exp": 4920,
 		"nombre": "Behemot",
-		"oro": 1200
+		"oro": 1200,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "0.9",
@@ -633,92 +675,100 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/571.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1200,
 		"exp": 3168,
 		"nombre": "Orco Brujo",
-		"oro": 1200
+		"oro": 1200,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 10,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/462.png",
-		"respawnMax": 10,
+		"respawnMax": "10s",
 		"hp": 1200,
 		"exp": 4500,
 		"nombre": "Rata Gigante",
-		"oro": 1200
+		"oro": 1200,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/148.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1420,
 		"exp": 3408,
 		"nombre": "Lord Orco",
-		"oro": 1420
+		"oro": 1420,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/570.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1500,
 		"exp": 3744,
 		"nombre": "Jefe Orco",
-		"oro": 1500
+		"oro": 1500,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/92.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 1600,
 		"exp": 4212,
 		"nombre": "Zombie Imperial",
-		"oro": 1600
+		"oro": 1600,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/166.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 1600,
 		"exp": 4212,
 		"nombre": "Cíclope",
-		"oro": 1600
+		"oro": 1600,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/149.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 1600,
 		"exp": 5440,
 		"nombre": "Liche",
-		"oro": 1600
+		"oro": 1600,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/173.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 1900,
 		"exp": 5000,
 		"nombre": "Fango",
-		"oro": 1900
+		"oro": 1900,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -727,15 +777,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/467.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2100,
 		"exp": 8504,
 		"nombre": "Fuego Elemental Amarillo",
-		"oro": 2100
+		"oro": 2100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -744,15 +795,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/472.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2100,
 		"exp": 9660,
 		"nombre": "Fuego Elemental Fucsia",
-		"oro": 2100
+		"oro": 2100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -766,15 +818,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/469.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2100,
 		"exp": 8505,
 		"nombre": "Fuego Elemental Marron",
-		"oro": 2100
+		"oro": 2100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -788,15 +841,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/470.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2100,
 		"exp": 9660,
 		"nombre": "Fuego Elemental Azul",
-		"oro": 2100
+		"oro": 2100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -810,26 +864,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/468.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2100,
 		"exp": 8505,
 		"nombre": "Fuego Elemental Gris",
-		"oro": 2100
+		"oro": 2100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/72.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 2300,
 		"exp": 7000,
 		"nombre": "Beholder",
-		"oro": 2300
+		"oro": 2300,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 15,
+		"respawnMaxSeg": 20,
+		"respawnMin": "15s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -843,26 +899,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/793.png",
-		"respawnMax": 20,
+		"respawnMax": "20s",
 		"hp": 2400,
 		"exp": 9840,
 		"nombre": "Tarántula",
-		"oro": 2400
+		"oro": 2400,
+		"respawnMinSeg": 15
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/417.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 2500,
 		"exp": 9000,
 		"nombre": "Yuan Ti",
-		"oro": 2500
+		"oro": 2500,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 2,
+		"respawnMaxSeg": 2,
+		"respawnMin": "2s",
 		"drops": [
 			{
 				"porcentaje": "0.4",
@@ -881,15 +939,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/144.png",
-		"respawnMax": 2,
+		"respawnMax": "2s",
 		"hp": 2500,
 		"exp": 2925,
 		"nombre": "Fuego fatuo",
-		"oro": 2500
+		"oro": 2500,
+		"respawnMinSeg": 2
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -903,15 +962,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/471.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 2600,
 		"exp": 11960,
 		"nombre": "Fuego Elemental Verde",
-		"oro": 2600
+		"oro": 2600,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 3,
+		"respawnMaxSeg": 3,
+		"respawnMin": "3s",
 		"drops": [
 			{
 				"porcentaje": "1.5",
@@ -930,26 +990,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/135.png",
-		"respawnMax": 3,
+		"respawnMax": "3s",
 		"hp": 2600,
 		"exp": 8500,
 		"nombre": "Mago Protector",
-		"oro": 2600
+		"oro": 2600,
+		"respawnMinSeg": 3
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 12,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/475.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 3000,
 		"exp": 14100,
 		"nombre": "Esqueleto Poseído",
-		"oro": 3000
+		"oro": 3000,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 16,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -958,70 +1020,76 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/473.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 3100,
 		"exp": 10530,
 		"nombre": "Fuego Elemental Verde Oscuro",
-		"oro": 3100
+		"oro": 3100,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/76.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 3200,
 		"exp": 10800,
 		"nombre": "Ogro",
-		"oro": 3200
+		"oro": 3200,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 50,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/522.png",
-		"respawnMax": 50,
+		"respawnMax": "50s",
 		"hp": 3500,
 		"exp": 4500,
 		"nombre": "Miliciano Zombie",
-		"oro": 3500
+		"oro": 3500,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 50,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/64.png",
-		"respawnMax": 50,
+		"respawnMax": "50s",
 		"hp": 3500,
 		"exp": 4500,
 		"nombre": "Sagrada Orden Zombie",
-		"oro": 3500
+		"oro": 3500,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 50,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/134.png",
-		"respawnMax": 50,
+		"respawnMax": "50s",
 		"hp": 3500,
 		"exp": 4500,
 		"nombre": "Caótico Zombie",
-		"oro": 3500
+		"oro": 3500,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 12,
+		"respawnMaxSeg": 20,
+		"respawnMin": "12s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1147.png",
-		"respawnMax": 20,
+		"respawnMax": "20s",
 		"hp": 3500,
 		"exp": 11900,
 		"nombre": "Merodeador",
-		"oro": 3500
+		"oro": 3500,
+		"respawnMinSeg": 12
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -1035,15 +1103,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/245.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 3500,
 		"exp": 10400,
 		"nombre": "Aparición",
-		"oro": 3500
+		"oro": 3500,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 8,
+		"respawnMaxSeg": 14,
+		"respawnMin": "8s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -1052,37 +1121,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/237.png",
-		"respawnMax": 14,
+		"respawnMax": "14s",
 		"hp": 3900,
 		"exp": 10920,
 		"nombre": "Ogro Guerrero",
-		"oro": 3900
+		"oro": 3900,
+		"respawnMinSeg": 8
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/223.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 4000,
 		"exp": 16000,
 		"nombre": "Hombre Lagarto",
-		"oro": 4000
+		"oro": 4000,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 4,
+		"respawnMaxSeg": 8,
+		"respawnMin": "4s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1145.png",
-		"respawnMax": 8,
+		"respawnMax": "8s",
 		"hp": 4000,
 		"exp": 19200,
 		"nombre": "Koohku",
-		"oro": 4000
+		"oro": 4000,
+		"respawnMinSeg": 4
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [
 			{
 				"porcentaje": "30",
@@ -1096,15 +1168,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/110.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 4000,
 		"exp": 12000,
 		"nombre": "Arquero Pirata",
-		"oro": 4000
+		"oro": 4000,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 18,
+		"respawnMaxSeg": 24,
+		"respawnMin": "18s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -1128,15 +1201,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/125.png",
-		"respawnMax": 24,
+		"respawnMax": "24s",
 		"hp": 4200,
 		"exp": 14700,
 		"nombre": "Bruja",
-		"oro": 4200
+		"oro": 4200,
+		"respawnMinSeg": 18
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 35,
+		"respawnMin": "25s",
 		"drops": [
 			{
 				"porcentaje": "5",
@@ -1150,15 +1224,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1275.png",
-		"respawnMax": 35,
+		"respawnMax": "35s",
 		"hp": 4500,
 		"exp": 20250,
 		"nombre": "Hayato",
-		"oro": 4500
+		"oro": 4500,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 360,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -1167,15 +1242,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1171.png",
-		"respawnMax": 6,
+		"respawnMax": "6m",
 		"hp": 5000,
 		"exp": 22000,
 		"nombre": "Núcleo de Magma",
-		"oro": 5000
+		"oro": 5000,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 2,
+		"respawnMaxSeg": 180,
+		"respawnMin": "2m",
 		"drops": [
 			{
 				"porcentaje": "0.5",
@@ -1184,15 +1260,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/494.png",
-		"respawnMax": 3,
+		"respawnMax": "3m",
 		"hp": 5000,
 		"exp": 21000,
 		"nombre": "Abigor",
-		"oro": 5000
+		"oro": 5000,
+		"respawnMinSeg": 120
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [
 			{
 				"porcentaje": "2",
@@ -1206,15 +1283,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1043.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 5200,
 		"exp": 22360,
 		"nombre": "Tarántula Azul",
-		"oro": 5200
+		"oro": 5200,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 12,
+		"respawnMaxSeg": 20,
+		"respawnMin": "12s",
 		"drops": [
 			{
 				"porcentaje": "2",
@@ -1228,15 +1306,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1072.png",
-		"respawnMax": 20,
+		"respawnMax": "20s",
 		"hp": 5500,
 		"exp": 14850,
 		"nombre": "Viuda Negra",
-		"oro": 5500
+		"oro": 5500,
+		"respawnMinSeg": 12
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 30,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -1250,15 +1329,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/219.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 6000,
 		"exp": 27600,
 		"nombre": "Crako",
-		"oro": 6000
+		"oro": 6000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 2,
+		"respawnMaxSeg": 180,
+		"respawnMin": "2m",
 		"drops": [
 			{
 				"porcentaje": "0.8",
@@ -1272,37 +1352,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/493.png",
-		"respawnMax": 3,
+		"respawnMax": "3m",
 		"hp": 6000,
 		"exp": 25800,
 		"nombre": "Pyros",
-		"oro": 6000
+		"oro": 6000,
+		"respawnMinSeg": 120
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/110.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 6500,
 		"exp": 19435,
 		"nombre": "Guerrero Pirata",
-		"oro": 6500
+		"oro": 6500,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1146.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 6500,
 		"exp": 22750,
 		"nombre": "Levethan",
-		"oro": 6500
+		"oro": 6500,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 35,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.5",
@@ -1326,15 +1409,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/367.png",
-		"respawnMax": 35,
+		"respawnMax": "35s",
 		"hp": 7000,
 		"exp": 28600,
 		"nombre": "Medusa",
-		"oro": 7000
+		"oro": 7000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 25,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "",
@@ -1343,15 +1427,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/99.png",
-		"respawnMax": 25,
+		"respawnMax": "25s",
 		"hp": 7000,
 		"exp": 28600,
 		"nombre": "Leviatán",
-		"oro": 7000
+		"oro": 7000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 40,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "7",
@@ -1360,15 +1445,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1274.png",
-		"respawnMax": 40,
+		"respawnMax": "40s",
 		"hp": 7200,
 		"exp": 36000,
 		"nombre": "Kazan",
-		"oro": 7200
+		"oro": 7200,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 600,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "5",
@@ -1377,26 +1463,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/699.png",
-		"respawnMax": 10,
+		"respawnMax": "10m",
 		"hp": 7500,
 		"exp": 21000,
 		"nombre": "Cría de Dragón Verde",
-		"oro": 7500
+		"oro": 7500,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 10,
+		"respawnMaxSeg": 12,
+		"respawnMin": "10s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/440.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 7500,
 		"exp": 36000,
 		"nombre": "Esqueleto Guardián",
-		"oro": 7500
+		"oro": 7500,
+		"respawnMinSeg": 10
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 12,
+		"respawnMaxSeg": 16,
+		"respawnMin": "12s",
 		"drops": [
 			{
 				"porcentaje": "8",
@@ -1405,59 +1493,64 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/460.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 8000,
 		"exp": 39200,
 		"nombre": "Lacayo del Mal",
-		"oro": 8000
+		"oro": 8000,
+		"respawnMinSeg": 12
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 12,
+		"respawnMaxSeg": 16,
+		"respawnMin": "12s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/369.png",
-		"respawnMax": 16,
+		"respawnMax": "16s",
 		"hp": 8000,
 		"exp": 32800,
 		"nombre": "Momia",
-		"oro": 8000
+		"oro": 8000,
+		"respawnMinSeg": 12
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 36,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/277.png",
-		"respawnMax": 36,
+		"respawnMax": "36s",
 		"hp": 8000,
 		"exp": 30550,
 		"nombre": "Sirena",
-		"oro": 8000
+		"oro": 8000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 12,
+		"respawnMaxSeg": 20,
+		"respawnMin": "12s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1151.png",
-		"respawnMax": 20,
+		"respawnMax": "20s",
 		"hp": 8000,
 		"exp": 24000,
 		"nombre": "Escorpión Gigante",
-		"oro": 8000
+		"oro": 8000,
+		"respawnMinSeg": 12
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 6,
+		"respawnMaxSeg": 12,
+		"respawnMin": "6s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/425.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 8000,
 		"exp": 21600,
 		"nombre": "Saqueador de Minas",
-		"oro": 8000
+		"oro": 8000,
+		"respawnMinSeg": 6
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 600,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "0.05",
@@ -1476,15 +1569,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/496.png",
-		"respawnMax": 10,
+		"respawnMax": "10m",
 		"hp": 9000,
 		"exp": 39600,
 		"nombre": "Gran Pyros",
-		"oro": 9000
+		"oro": 9000,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "0.05",
@@ -1498,15 +1592,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/670.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 10000,
 		"exp": 40800,
 		"nombre": "Conjuradora",
-		"oro": 10000
+		"oro": 10000,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 30,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "0.5",
@@ -1530,37 +1625,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/418.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 10000,
 		"exp": 41000,
 		"nombre": "Chamán Ártico",
-		"oro": 10000
+		"oro": 10000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 15,
+		"respawnMaxSeg": 18,
+		"respawnMin": "15s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/449.png",
-		"respawnMax": 18,
+		"respawnMax": "18s",
 		"hp": 10000,
 		"exp": 50000,
 		"nombre": "Sanguijuela Gigante",
-		"oro": 10000
+		"oro": 10000,
+		"respawnMinSeg": 15
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 9,
+		"respawnMaxSeg": 13,
+		"respawnMin": "9s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1143.png",
-		"respawnMax": 13,
+		"respawnMax": "13s",
 		"hp": 10000,
 		"exp": 54000,
 		"nombre": "Caminante Eterno",
-		"oro": 10000
+		"oro": 10000,
+		"respawnMinSeg": 9
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 130,
+		"respawnMaxSeg": 240,
+		"respawnMin": "1m 30s",
 		"drops": [
 			{
 				"porcentaje": "0.05",
@@ -1579,48 +1677,52 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/497.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 11000,
 		"exp": 49500,
 		"nombre": "Gárgola Abisal",
-		"oro": 11000
+		"oro": 11000,
+		"respawnMinSeg": 90
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 45,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1347.png",
-		"respawnMax": 45,
+		"respawnMax": "45s",
 		"hp": 11000,
 		"exp": 47300,
 		"nombre": "Huargo de Nieve Feroz",
-		"oro": 11000
+		"oro": 11000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 27,
+		"respawnMaxSeg": 32,
+		"respawnMin": "27s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/558.png",
-		"respawnMax": 32,
+		"respawnMax": "32s",
 		"hp": 12000,
 		"exp": 54000,
 		"nombre": "Arquero Drow",
-		"oro": 12000
+		"oro": 12000,
+		"respawnMinSeg": 27
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1212.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 12000,
 		"exp": 60000,
 		"nombre": "Naga",
-		"oro": 12000
+		"oro": 12000,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 7,
+		"respawnMaxSeg": 12,
+		"respawnMin": "7s",
 		"drops": [
 			{
 				"porcentaje": "2",
@@ -1629,15 +1731,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/995.png",
-		"respawnMax": 12,
+		"respawnMax": "12s",
 		"hp": 15000,
 		"exp": 63000,
 		"nombre": "Asolador de la Oscuridad",
-		"oro": 15000
+		"oro": 15000,
+		"respawnMinSeg": 7
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -1656,15 +1759,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/365.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 15000,
 		"exp": 63000,
 		"nombre": "Demonio",
-		"oro": 15000
+		"oro": 15000,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 600,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "7",
@@ -1673,15 +1777,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/693.png",
-		"respawnMax": 10,
+		"respawnMax": "10m",
 		"hp": 15000,
 		"exp": 45000,
 		"nombre": "Cría de Dragón Azul",
-		"oro": 15000
+		"oro": 15000,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [
 			{
 				"porcentaje": "3",
@@ -1690,26 +1795,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1172.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 16000,
 		"exp": 83200,
 		"nombre": "Serpiente de Jade",
-		"oro": 16000
+		"oro": 16000,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 35,
+		"respawnMin": "30s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/559.png",
-		"respawnMax": 35,
+		"respawnMax": "35s",
 		"hp": 16000,
 		"exp": 73600,
 		"nombre": "Lancero Drow",
-		"oro": 16000
+		"oro": 16000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 45,
+		"respawnMin": "35s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -1728,15 +1835,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1273.png",
-		"respawnMax": 45,
+		"respawnMax": "45s",
 		"hp": 17000,
 		"exp": 93500,
 		"nombre": "Tatsu",
-		"oro": 17000
+		"oro": 17000,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 25,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "0.5",
@@ -1750,15 +1858,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/459.png",
-		"respawnMax": 25,
+		"respawnMax": "25s",
 		"hp": 17000,
 		"exp": 86700,
 		"nombre": "Alma Cautiva",
-		"oro": 17000
+		"oro": 17000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 25,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "0.2",
@@ -1767,15 +1876,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/451.png",
-		"respawnMax": 25,
+		"respawnMax": "25s",
 		"hp": 18000,
 		"exp": 93600,
 		"nombre": "Fantasma",
-		"oro": 18000
+		"oro": 18000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [
 			{
 				"porcentaje": "0.4",
@@ -1794,26 +1904,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/446.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 18000,
 		"exp": 96000,
 		"nombre": "Espectro",
-		"oro": 18000
+		"oro": 18000,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/439.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 18500,
 		"exp": 94350,
 		"nombre": "Corruptor",
-		"oro": 18500
+		"oro": 18500,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 7,
+		"respawnMaxSeg": 720,
+		"respawnMin": "7m",
 		"drops": [
 			{
 				"porcentaje": "1.5",
@@ -1832,15 +1944,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1069.png",
-		"respawnMax": 12,
+		"respawnMax": "12m",
 		"hp": 20000,
 		"exp": 76000,
 		"nombre": "Cobra",
-		"oro": 20000
+		"oro": 20000,
+		"respawnMinSeg": 420
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 600,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "8",
@@ -1849,26 +1962,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/696.png",
-		"respawnMax": 10,
+		"respawnMax": "10m",
 		"hp": 20000,
 		"exp": 60000,
 		"nombre": "Cría de Dragón Negro",
-		"oro": 20000
+		"oro": 20000,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 45,
+		"respawnMaxSeg": 60,
+		"respawnMin": "45s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/878.png",
-		"respawnMax": 1,
+		"respawnMax": "1m",
 		"hp": 20000,
 		"exp": 90000,
 		"nombre": "Orco Domador",
-		"oro": 20000
+		"oro": 20000,
+		"respawnMinSeg": 45
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 40,
+		"respawnMin": "35s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -1902,26 +2017,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/368.png",
-		"respawnMax": 40,
+		"respawnMax": "40s",
 		"hp": 21000,
 		"exp": 91400,
 		"nombre": "Medusa Matriarch",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 25,
+		"respawnMin": "20s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/441.png",
-		"respawnMax": 25,
+		"respawnMax": "25s",
 		"hp": 21000,
 		"exp": 109200,
 		"nombre": "Turbador Sombrío",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 45,
+		"respawnMin": "35s",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -1935,26 +2052,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/565.png",
-		"respawnMax": 45,
+		"respawnMax": "45s",
 		"hp": 21000,
 		"exp": 92400,
 		"nombre": "Nerkhan",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 40,
+		"respawnMin": "35s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/559.png",
-		"respawnMax": 40,
+		"respawnMax": "40s",
 		"hp": 21000,
 		"exp": 98700,
 		"nombre": "Lancera Drow",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 20,
+		"respawnMaxSeg": 25,
+		"respawnMin": "20s",
 		"drops": [
 			{
 				"porcentaje": "0.4",
@@ -1968,15 +2087,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/376.png",
-		"respawnMax": 25,
+		"respawnMax": "25s",
 		"hp": 21000,
 		"exp": 110250,
 		"nombre": "Archne",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 20
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 6,
+		"respawnMaxSeg": 480,
+		"respawnMin": "6m",
 		"drops": [
 			{
 				"porcentaje": "0.9",
@@ -1995,26 +2115,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/564.png",
-		"respawnMax": 8,
+		"respawnMax": "8m",
 		"hp": 21000,
 		"exp": 94500,
 		"nombre": "Hechicero de la Oscuridad",
-		"oro": 21000
+		"oro": 21000,
+		"respawnMinSeg": 360
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 45,
+		"respawnMaxSeg": 60,
+		"respawnMin": "45s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1346.png",
-		"respawnMax": 1,
+		"respawnMax": "1m",
 		"hp": 22000,
 		"exp": 99000,
 		"nombre": "Asesino Gélido",
-		"oro": 22000
+		"oro": 22000,
+		"respawnMinSeg": 45
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 45,
+		"respawnMin": "35s",
 		"drops": [
 			{
 				"porcentaje": "50",
@@ -2033,15 +2155,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/450.png",
-		"respawnMax": 45,
+		"respawnMax": "45s",
 		"hp": 22500,
 		"exp": 119250,
 		"nombre": "Hombre Lobo",
-		"oro": 22500
+		"oro": 22500,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 220,
+		"respawnMaxSeg": 240,
+		"respawnMin": "2m 20s",
 		"drops": [
 			{
 				"porcentaje": "20",
@@ -2055,15 +2178,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/678.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 22500,
 		"exp": 88000,
 		"nombre": "Gólem de Bronce (Minas de Illiandor)",
-		"oro": 22500
+		"oro": 22500,
+		"respawnMinSeg": 140
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 220,
+		"respawnMaxSeg": 240,
+		"respawnMin": "2m 20s",
 		"drops": [
 			{
 				"porcentaje": "20",
@@ -2072,15 +2196,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/364.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 22500,
 		"exp": 88000,
 		"nombre": "Gladiador",
-		"oro": 22500
+		"oro": 22500,
+		"respawnMinSeg": 140
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 220,
+		"respawnMaxSeg": 240,
+		"respawnMin": "2m 20s",
 		"drops": [
 			{
 				"porcentaje": "25",
@@ -2089,15 +2214,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/429.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 22500,
 		"exp": 88000,
 		"nombre": "Ogro Líder",
-		"oro": 22500
+		"oro": 22500,
+		"respawnMinSeg": 140
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 35,
+		"respawnMaxSeg": 40,
+		"respawnMin": "35s",
 		"drops": [
 			{
 				"porcentaje": "0.02",
@@ -2116,15 +2242,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/996.png",
-		"respawnMax": 40,
+		"respawnMax": "40s",
 		"hp": 25000,
 		"exp": 100000,
 		"nombre": "Banshee",
-		"oro": 25000
+		"oro": 25000,
+		"respawnMinSeg": 35
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 50,
+		"respawnMaxSeg": 60,
+		"respawnMin": "50s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -2153,15 +2280,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/447.png",
-		"respawnMax": 1,
+		"respawnMax": "1m",
 		"hp": 25000,
 		"exp": 127300,
 		"nombre": "Castigador",
-		"oro": 25000
+		"oro": 25000,
+		"respawnMinSeg": 50
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 330,
+		"respawnMaxSeg": 360,
+		"respawnMin": "3m 30s",
 		"drops": [
 			{
 				"porcentaje": "0.5",
@@ -2185,15 +2313,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/574.png",
-		"respawnMax": 6,
+		"respawnMax": "6m",
 		"hp": 27000,
 		"exp": 107900,
 		"nombre": "Kraken",
-		"oro": 27000
+		"oro": 27000,
+		"respawnMinSeg": 210
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 45,
+		"respawnMaxSeg": 75,
+		"respawnMin": "45s",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -2212,15 +2341,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/373.png",
-		"respawnMax": 115,
+		"respawnMax": "1m 15s",
 		"hp": 30000,
 		"exp": 114000,
 		"nombre": "Gólem de Bronce",
-		"oro": 30000
+		"oro": 30000,
+		"respawnMinSeg": 45
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 1230,
+		"respawnMaxSeg": 1050,
+		"respawnMin": "12m 30s",
 		"drops": [
 			{
 				"porcentaje": "10",
@@ -2229,15 +2359,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/695.png",
-		"respawnMax": 1730,
+		"respawnMax": "17m 30s",
 		"hp": 30000,
 		"exp": 53625,
 		"nombre": "Cría de Dragón Legendario",
-		"oro": 30000
+		"oro": 30000,
+		"respawnMinSeg": 750
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 50,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.1",
@@ -2251,26 +2382,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/438.png",
-		"respawnMax": 50,
+		"respawnMax": "50s",
 		"hp": 30000,
 		"exp": 162000,
 		"nombre": "Vampiresa",
-		"oro": 30000
+		"oro": 30000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 25,
+		"respawnMaxSeg": 30,
+		"respawnMin": "25s",
 		"drops": [],
 		"imageUrl": "/images/criaturas/445.png",
-		"respawnMax": 30,
+		"respawnMax": "30s",
 		"hp": 32000,
 		"exp": 176000,
 		"nombre": "Desertor de las Tinieblas",
-		"oro": 32000
+		"oro": 32000,
+		"respawnMinSeg": 25
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 50,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.15",
@@ -2289,15 +2422,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/434.png",
-		"respawnMax": 50,
+		"respawnMax": "50s",
 		"hp": 33000,
 		"exp": 181500,
 		"nombre": "Vampiro",
-		"oro": 33000
+		"oro": 33000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 5,
+		"respawnMaxSeg": 600,
+		"respawnMin": "5m",
 		"drops": [
 			{
 				"porcentaje": "10",
@@ -2306,15 +2440,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/698.png",
-		"respawnMax": 10,
+		"respawnMax": "10m",
 		"hp": 35000,
 		"exp": 105000,
 		"nombre": "Cría de Dragón Rojo",
-		"oro": 35000
+		"oro": 35000,
+		"respawnMinSeg": 300
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 1,
+		"respawnMaxSeg": 70,
+		"respawnMin": "1m",
 		"drops": [
 			{
 				"porcentaje": "0.05",
@@ -2338,15 +2473,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1144.png",
-		"respawnMax": 110,
+		"respawnMax": "1m 10s",
 		"hp": 37500,
 		"exp": 217500,
 		"nombre": "Eco del Pasado",
-		"oro": 37500
+		"oro": 37500,
+		"respawnMinSeg": 60
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 35,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -2370,15 +2506,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/458.png",
-		"respawnMax": 35,
+		"respawnMax": "35s",
 		"hp": 40000,
 		"exp": 228000,
 		"nombre": "Adosador de la Muerte",
-		"oro": 40000
+		"oro": 40000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 45,
+		"respawnMaxSeg": 60,
+		"respawnMin": "45s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -2397,15 +2534,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/363.png",
-		"respawnMax": 1,
+		"respawnMax": "1m",
 		"hp": 40000,
 		"exp": 176000,
 		"nombre": "Demonio Abisal",
-		"oro": 40000
+		"oro": 40000,
+		"respawnMinSeg": 45
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 30,
+		"respawnMaxSeg": 45,
+		"respawnMin": "30s",
 		"drops": [
 			{
 				"porcentaje": "0.2",
@@ -2424,15 +2562,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/500.png",
-		"respawnMax": 45,
+		"respawnMax": "45s",
 		"hp": 45000,
 		"exp": 207000,
 		"nombre": "Egipan",
-		"oro": 45000
+		"oro": 45000,
+		"respawnMinSeg": 30
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 130,
+		"respawnMaxSeg": 120,
+		"respawnMin": "1m 30s",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -2451,15 +2590,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1272.png",
-		"respawnMax": 2,
+		"respawnMax": "2m",
 		"hp": 45000,
 		"exp": 261000,
 		"nombre": "Nue",
-		"oro": 45000
+		"oro": 45000,
+		"respawnMinSeg": 90
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 1640,
+		"respawnMaxSeg": 1300,
+		"respawnMin": "16m 40s",
 		"drops": [
 			{
 				"porcentaje": "12",
@@ -2468,15 +2608,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/697.png",
-		"respawnMax": 2140,
+		"respawnMax": "21m 40s",
 		"hp": 45000,
 		"exp": 77220,
 		"nombre": "Cría de Rey Dragón",
-		"oro": 45000
+		"oro": 45000,
+		"respawnMinSeg": 1000
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 2,
+		"respawnMaxSeg": 150,
+		"respawnMin": "2m",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -2490,15 +2631,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/371.png",
-		"respawnMax": 230,
+		"respawnMax": "2m 30s",
 		"hp": 46500,
 		"exp": 181350,
 		"nombre": "Gólem de Piedra",
-		"oro": 46500
+		"oro": 46500,
+		"respawnMinSeg": 120
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 110,
+		"respawnMaxSeg": 80,
+		"respawnMin": "1m 10s",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -2512,15 +2654,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1149.png",
-		"respawnMax": 120,
+		"respawnMax": "1m 20s",
 		"hp": 50000,
 		"exp": 290000,
 		"nombre": "Vespertilago",
-		"oro": 50000
+		"oro": 50000,
+		"respawnMinSeg": 70
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 110,
+		"respawnMaxSeg": 80,
+		"respawnMin": "1m 10s",
 		"drops": [
 			{
 				"porcentaje": "0.015",
@@ -2544,15 +2687,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/443.png",
-		"respawnMax": 120,
+		"respawnMax": "1m 20s",
 		"hp": 50000,
 		"exp": 300000,
 		"nombre": "Hechicero de Aire",
-		"oro": 50000
+		"oro": 50000,
+		"respawnMinSeg": 70
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 430,
+		"respawnMaxSeg": 450,
+		"respawnMin": "4m 30s",
 		"drops": [
 			{
 				"porcentaje": "50",
@@ -2581,15 +2725,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/553.png",
-		"respawnMax": 730,
+		"respawnMax": "7m 30s",
 		"hp": 51000,
 		"exp": 255000,
 		"nombre": "Matriarca Drow",
-		"oro": 51000
+		"oro": 51000,
+		"respawnMinSeg": 270
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 110,
+		"respawnMaxSeg": 80,
+		"respawnMin": "1m 10s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -2618,15 +2763,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/442.png",
-		"respawnMax": 120,
+		"respawnMax": "1m 20s",
 		"hp": 55000,
 		"exp": 330000,
 		"nombre": "Hechicero de Agua",
-		"oro": 55000
+		"oro": 55000,
+		"respawnMinSeg": 70
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 110,
+		"respawnMaxSeg": 80,
+		"respawnMin": "1m 10s",
 		"drops": [
 			{
 				"porcentaje": "0.03",
@@ -2650,15 +2796,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/433.png",
-		"respawnMax": 120,
+		"respawnMax": "1m 20s",
 		"hp": 61000,
 		"exp": 366000,
 		"nombre": "Hechicero de Fuego",
-		"oro": 61000
+		"oro": 61000,
+		"respawnMinSeg": 70
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 110,
+		"respawnMaxSeg": 80,
+		"respawnMin": "1m 10s",
 		"drops": [
 			{
 				"porcentaje": "0.015",
@@ -2687,15 +2834,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/444.png",
-		"respawnMax": 120,
+		"respawnMax": "1m 20s",
 		"hp": 66000,
 		"exp": 396000,
 		"nombre": "Hechicero de Tierra",
-		"oro": 66000
+		"oro": 66000,
+		"respawnMinSeg": 70
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 1,
+		"respawnMaxSeg": 90,
+		"respawnMin": "1m",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -2709,15 +2857,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/370.png",
-		"respawnMax": 130,
+		"respawnMax": "1m 30s",
 		"hp": 68000,
 		"exp": 340000,
 		"nombre": "Yeti",
-		"oro": 68000
+		"oro": 68000,
+		"respawnMinSeg": 60
 	},
 	{
-		"respawnUnidad": "s",
-		"respawnMin": 3320,
+		"respawnMaxSeg": 2800,
+		"respawnMin": "33m 20s",
 		"drops": [
 			{
 				"porcentaje": "2.1",
@@ -2746,15 +2895,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/375.png",
-		"respawnMax": 4640,
+		"respawnMax": "46m 40s",
 		"hp": 72000,
 		"exp": 309600,
 		"nombre": "Gólem de Plata",
-		"oro": 72000
+		"oro": 72000,
+		"respawnMinSeg": 2000
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 4,
+		"respawnMaxSeg": 540,
+		"respawnMin": "4m",
 		"drops": [
 			{
 				"porcentaje": "0.2",
@@ -2778,15 +2928,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/499.png",
-		"respawnMax": 9,
+		"respawnMax": "9m",
 		"hp": 75000,
 		"exp": 352500,
 		"nombre": "Alasto",
-		"oro": 75000
+		"oro": 75000,
+		"respawnMinSeg": 240
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 3,
+		"respawnMaxSeg": 240,
+		"respawnMin": "3m",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -2810,15 +2961,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/474.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 77000,
 		"exp": 481250,
 		"nombre": "Profeta Arcano",
-		"oro": 77000
+		"oro": 77000,
+		"respawnMinSeg": 180
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 10,
+		"respawnMaxSeg": 900,
+		"respawnMin": "10m",
 		"drops": [
 			{
 				"porcentaje": "0.3",
@@ -2837,15 +2989,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/562.png",
-		"respawnMax": 15,
+		"respawnMax": "15m",
 		"hp": 80000,
 		"exp": 440000,
 		"nombre": "Aranhae",
-		"oro": 80000
+		"oro": 80000,
+		"respawnMinSeg": 600
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 3,
+		"respawnMaxSeg": 240,
+		"respawnMin": "3m",
 		"drops": [
 			{
 				"porcentaje": "1",
@@ -2869,15 +3022,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/477.png",
-		"respawnMax": 4,
+		"respawnMax": "4m",
 		"hp": 91000,
 		"exp": 582400,
 		"nombre": "Guardián",
-		"oro": 91000
+		"oro": 91000,
+		"respawnMinSeg": 180
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 3640,
+		"respawnMaxSeg": 3660,
+		"respawnMin": "36m 40s",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -2906,15 +3060,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1190.png",
-		"respawnMax": 11,
+		"respawnMax": "1h 1m",
 		"hp": 100000,
 		"exp": 440000,
 		"nombre": "Gólem de Oro",
-		"oro": 100000
+		"oro": 100000,
+		"respawnMinSeg": 2200
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 1,
+		"respawnMaxSeg": 7200,
+		"respawnMin": "1h",
 		"drops": [
 			{
 				"porcentaje": "25",
@@ -2938,15 +3093,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/642.png",
-		"respawnMax": 2,
+		"respawnMax": "2h",
 		"hp": 120000,
 		"exp": 624000,
 		"nombre": "Gorgona",
-		"oro": 120000
+		"oro": 120000,
+		"respawnMinSeg": 3600
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 2,
+		"respawnMaxSeg": 120,
+		"respawnMin": "2m",
 		"drops": [
 			{
 				"porcentaje": "2",
@@ -2965,26 +3121,28 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1173.png",
-		"respawnMax": 2,
+		"respawnMax": "2m",
 		"hp": 125000,
 		"exp": 762500,
 		"nombre": "Gorath",
-		"oro": 125000
+		"oro": 125000,
+		"respawnMinSeg": 120
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 8,
+		"respawnMaxSeg": 900,
+		"respawnMin": "8m",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1271.png",
-		"respawnMax": 15,
+		"respawnMax": "15m",
 		"hp": 125000,
 		"exp": 875000,
 		"nombre": "Oni",
-		"oro": 125000
+		"oro": 125000,
+		"respawnMinSeg": 480
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 2,
+		"respawnMaxSeg": 18000,
+		"respawnMin": "2h",
 		"drops": [
 			{
 				"porcentaje": "5",
@@ -3023,15 +3181,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/360.png",
-		"respawnMax": 5,
+		"respawnMax": "5h",
 		"hp": 130000,
 		"exp": 715000,
 		"nombre": "Gran Dragón Verde",
-		"oro": 130000
+		"oro": 130000,
+		"respawnMinSeg": 7200
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 4140,
+		"respawnMaxSeg": 4200,
+		"respawnMin": "41m 40s",
 		"drops": [
 			{
 				"porcentaje": "8",
@@ -3065,15 +3224,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/374.png",
-		"respawnMax": 110,
+		"respawnMax": "1h 10m",
 		"hp": 150000,
 		"exp": 660000,
 		"nombre": "Gólem Infernal",
-		"oro": 150000
+		"oro": 150000,
+		"respawnMinSeg": 2500
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 10,
+		"respawnMaxSeg": 900,
+		"respawnMin": "10m",
 		"drops": [
 			{
 				"porcentaje": "5",
@@ -3102,15 +3262,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/377.png",
-		"respawnMax": 15,
+		"respawnMax": "15m",
 		"hp": 175000,
 		"exp": 770000,
 		"nombre": "Gólem de Hielo",
-		"oro": 175000
+		"oro": 175000,
+		"respawnMinSeg": 600
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 30,
+		"respawnMaxSeg": 2700,
+		"respawnMin": "30m",
 		"drops": [
 			{
 				"porcentaje": "75",
@@ -3164,15 +3325,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/463.png",
-		"respawnMax": 45,
+		"respawnMax": "45m",
 		"hp": 175000,
 		"exp": 997500,
 		"nombre": "Vampiro Transformado",
-		"oro": 175000
+		"oro": 175000,
+		"respawnMinSeg": 1800
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 8,
+		"respawnMaxSeg": 50400,
+		"respawnMin": "8h",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -3231,15 +3393,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/359.png",
-		"respawnMax": 14,
+		"respawnMax": "14h",
 		"hp": 200000,
 		"exp": 1000000,
 		"nombre": "Gran Dragón Azul",
-		"oro": 200000
+		"oro": 200000,
+		"respawnMinSeg": 28800
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 7,
+		"respawnMaxSeg": 36000,
+		"respawnMin": "7h",
 		"drops": [
 			{
 				"porcentaje": "20",
@@ -3278,15 +3441,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1153.png",
-		"respawnMax": 10,
+		"respawnMax": "10h",
 		"hp": 250000,
 		"exp": 1375000,
 		"nombre": "Abyssaria",
-		"oro": 250000
+		"oro": 250000,
+		"respawnMinSeg": 25200
 	},
 	{
-		"respawnUnidad": "m",
-		"respawnMin": 30,
+		"respawnMaxSeg": 2700,
+		"respawnMin": "30m",
 		"drops": [
 			{
 				"porcentaje": "75",
@@ -3335,37 +3499,40 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/480.png",
-		"respawnMax": 45,
+		"respawnMax": "45m",
 		"hp": 250000,
 		"exp": 1675000,
 		"nombre": "Gran Hechicero Garveloth",
-		"oro": 250000
+		"oro": 250000,
+		"respawnMinSeg": 1800
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 2,
+		"respawnMaxSeg": 12600,
+		"respawnMin": "2h",
 		"drops": [],
 		"imageUrl": "/images/criaturas/1002.png",
-		"respawnMax": 330,
+		"respawnMax": "3h 30m",
 		"hp": 310000,
 		"exp": 1800000,
 		"nombre": "Lilith",
-		"oro": 310000
+		"oro": 310000,
+		"respawnMinSeg": 7200
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 8,
+		"respawnMaxSeg": 72000,
+		"respawnMin": "8h",
 		"drops": [],
 		"imageUrl": "/images/criaturas/591.png",
-		"respawnMax": 20,
+		"respawnMax": "20h",
 		"hp": 320000,
 		"exp": 2560000,
 		"nombre": "Khern Ghard (TEST)",
-		"oro": 320000
+		"oro": 320000,
+		"respawnMinSeg": 28800
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 10,
+		"respawnMaxSeg": 61200,
+		"respawnMin": "10h",
 		"drops": [
 			{
 				"porcentaje": "15",
@@ -3424,15 +3591,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/358.png",
-		"respawnMax": 17,
+		"respawnMax": "17h",
 		"hp": 320000,
 		"exp": 1920000,
 		"nombre": "Gran Dragón Rojo",
-		"oro": 320000
+		"oro": 320000,
+		"respawnMinSeg": 36000
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 8,
+		"respawnMaxSeg": 72000,
+		"respawnMin": "8h",
 		"drops": [
 			{
 				"porcentaje": "3",
@@ -3496,15 +3664,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/998.png",
-		"respawnMax": 20,
+		"respawnMax": "20h",
 		"hp": 320000,
 		"exp": 2560000,
 		"nombre": "Djinn",
-		"oro": 320000
+		"oro": 320000,
+		"respawnMinSeg": 28800
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 9,
+		"respawnMaxSeg": 64800,
+		"respawnMin": "9h",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -3553,15 +3722,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/1211.png",
-		"respawnMax": 18,
+		"respawnMax": "18h",
 		"hp": 420000,
 		"exp": 3780000,
 		"nombre": "Eishnër",
-		"oro": 420000
+		"oro": 420000,
+		"respawnMinSeg": 32400
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 12,
+		"respawnMaxSeg": 72000,
+		"respawnMin": "12h",
 		"drops": [
 			{
 				"porcentaje": "20",
@@ -3655,15 +3825,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/362.png",
-		"respawnMax": 20,
+		"respawnMax": "20h",
 		"hp": 440000,
 		"exp": 2640000,
 		"nombre": "Gran Dragón Negro",
-		"oro": 440000
+		"oro": 440000,
+		"respawnMinSeg": 43200
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 15,
+		"respawnMaxSeg": 79200,
+		"respawnMin": "15h",
 		"drops": [
 			{
 				"porcentaje": "100",
@@ -3722,15 +3893,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/644.png",
-		"respawnMax": 22,
+		"respawnMax": "22h",
 		"hp": 500000,
 		"exp": 4500000,
 		"nombre": "Archimago Abisal",
-		"oro": 200000
+		"oro": 200000,
+		"respawnMinSeg": 54000
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 16,
+		"respawnMaxSeg": 86400,
+		"respawnMin": "16h",
 		"drops": [
 			{
 				"porcentaje": "35",
@@ -3829,15 +4001,16 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/361.png",
-		"respawnMax": 24,
+		"respawnMax": "24h",
 		"hp": 650000,
 		"exp": 4225000,
 		"nombre": "Dragón Legendario",
-		"oro": 650000
+		"oro": 650000,
+		"respawnMinSeg": 57600
 	},
 	{
-		"respawnUnidad": "h",
-		"respawnMin": 22,
+		"respawnMaxSeg": 108000,
+		"respawnMin": "22h",
 		"drops": [
 			{
 				"porcentaje": "50",
@@ -3946,10 +4119,11 @@
 			}
 		],
 		"imageUrl": "/images/criaturas/432.png",
-		"respawnMax": 30,
+		"respawnMax": "30h",
 		"hp": 900000,
 		"exp": 6750000,
 		"nombre": "Rey Dragón",
-		"oro": 900000
+		"oro": 900000,
+		"respawnMinSeg": 79200
 	}
 ]
