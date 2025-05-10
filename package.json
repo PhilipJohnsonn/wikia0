@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prod": "next build && next export && git subtree push --prefix=out origin prod"
+    "prod": "next build && git subtree push --prefix=out origin prod"
   },
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.12",
