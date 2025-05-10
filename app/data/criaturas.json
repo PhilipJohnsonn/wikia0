@@ -1,0 +1,3955 @@
+[
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/70.png",
+		"respawnMax": 12,
+		"hp": 5,
+		"exp": 17,
+		"nombre": "Hormiga",
+		"oro": 5
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Pollo",
+				"imagenUrl": "/images/drops/506.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/5.png",
+		"respawnMax": 8,
+		"hp": 10,
+		"exp": 28,
+		"nombre": "Gallo Salvaje",
+		"oro": 10
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 2,
+		"drops": [],
+		"imageUrl": "/images/criaturas/71.png",
+		"respawnMax": 2,
+		"hp": 15,
+		"exp": 40,
+		"nombre": "Rata",
+		"oro": 15
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/9.png",
+		"respawnMax": 8,
+		"hp": 15,
+		"exp": 35,
+		"nombre": "Murciélago",
+		"oro": 15
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/13.png",
+		"respawnMax": 8,
+		"hp": 18,
+		"exp": 46,
+		"nombre": "Serpiente",
+		"oro": 18
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/466.png",
+		"respawnMax": 8,
+		"hp": 18,
+		"exp": 39,
+		"nombre": "Murciélago",
+		"oro": 18
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Pluma de Águila",
+				"imagenUrl": "/images/drops/1702.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/59.png",
+		"respawnMax": 2,
+		"hp": 20,
+		"exp": 52,
+		"nombre": "Águila",
+		"oro": 20
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Pollo",
+				"imagenUrl": "/images/drops/506.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/278.png",
+		"respawnMax": 8,
+		"hp": 27,
+		"exp": 70,
+		"nombre": "Gallina Salvaje",
+		"oro": 27
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/68.png",
+		"respawnMax": 8,
+		"hp": 30,
+		"exp": 84,
+		"nombre": "Cuervo",
+		"oro": 30
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/51.png",
+		"respawnMax": 8,
+		"hp": 32,
+		"exp": 81,
+		"nombre": "Escorpión",
+		"oro": 32
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/12.png",
+		"respawnMax": 10,
+		"hp": 50,
+		"exp": 128,
+		"nombre": "Esqueleto",
+		"oro": 50
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/465.png",
+		"respawnMax": 12,
+		"hp": 55,
+		"exp": 292,
+		"nombre": "Cría Arácnida",
+		"oro": 55
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Piel de Lobo",
+				"imagenUrl": "/images/drops/655.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Colmillo de Lobo",
+				"imagenUrl": "/images/drops/1703.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/10.png",
+		"respawnMax": 12,
+		"hp": 75,
+		"exp": 204,
+		"nombre": "Lobo",
+		"oro": 75
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "2",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/465.png",
+		"respawnMax": 10,
+		"hp": 75,
+		"exp": 325,
+		"nombre": "Cría Arácnida",
+		"oro": 75
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/14.png",
+		"respawnMax": 12,
+		"hp": 110,
+		"exp": 269,
+		"nombre": "Goblin",
+		"oro": 110
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 2,
+		"drops": [],
+		"imageUrl": "/images/criaturas/476.png",
+		"respawnMax": 2,
+		"hp": 150,
+		"exp": 688,
+		"nombre": "Murciélago Mutante",
+		"oro": 150
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 3,
+		"drops": [],
+		"imageUrl": "/images/criaturas/464.png",
+		"respawnMax": 3,
+		"hp": 180,
+		"exp": 858,
+		"nombre": "Sierpe",
+		"oro": 180
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/405.png",
+		"respawnMax": 12,
+		"hp": 200,
+		"exp": 479,
+		"nombre": "Esqueleto Guerrero",
+		"oro": 200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/75.png",
+		"respawnMax": 12,
+		"hp": 210,
+		"exp": 491,
+		"nombre": "Duende",
+		"oro": 210
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Piel de Lobo Invernal",
+				"imagenUrl": "/images/drops/657.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Colmillo de Lobo",
+				"imagenUrl": "/images/drops/1703.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/284.png",
+		"respawnMax": 12,
+		"hp": 225,
+		"exp": 655,
+		"nombre": "Lobo Invernal",
+		"oro": 225
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/43.png",
+		"respawnMax": 12,
+		"hp": 320,
+		"exp": 748,
+		"nombre": "Orco",
+		"oro": 320
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/141.png",
+		"respawnMax": 12,
+		"hp": 320,
+		"exp": 748,
+		"nombre": "Zombie",
+		"oro": 320
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 36,
+		"drops": [],
+		"imageUrl": "/images/criaturas/448.png",
+		"respawnMax": 112,
+		"hp": 340,
+		"exp": 819,
+		"nombre": "Zombie Lóbrego",
+		"oro": 340
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/478.png",
+		"respawnMax": 8,
+		"hp": 350,
+		"exp": 1638,
+		"nombre": "Sertlac",
+		"oro": 350
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/424.png",
+		"respawnMax": 12,
+		"hp": 350,
+		"exp": 819,
+		"nombre": "Bandido",
+		"oro": 350
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "3",
+				"nombre": "Anillo de las Sombras",
+				"imagenUrl": "/images/drops/2021.png"
+			},
+			{
+				"porcentaje": "0.01",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/423.png",
+		"respawnMax": 10,
+		"hp": 400,
+		"exp": 702,
+		"nombre": "Señor de las Sombras",
+		"oro": 400
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "20",
+				"nombre": "Escudo de Tortuga",
+				"imagenUrl": "/images/drops/1216.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Caparazón de Tortuga",
+				"imagenUrl": "/images/drops/1704.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/74.png",
+		"respawnMax": 10,
+		"hp": 480,
+		"exp": 1123,
+		"nombre": "Tortuga Gigante",
+		"oro": 480
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 5,
+		"drops": [],
+		"imageUrl": "/images/criaturas/461.png",
+		"respawnMax": 8,
+		"hp": 480,
+		"exp": 2070,
+		"nombre": "Mano Peluda",
+		"oro": 480
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/161.png",
+		"respawnMax": 12,
+		"hp": 550,
+		"exp": 1345,
+		"nombre": "Lord Zombie",
+		"oro": 550
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Corteza Onodrim",
+				"imagenUrl": "/images/drops/1705.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Leña",
+				"imagenUrl": "/images/drops/652.png"
+			},
+			{
+				"porcentaje": "7",
+				"nombre": "Raíz",
+				"imagenUrl": "/images/drops/650.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/273.png",
+		"respawnMax": 12,
+		"hp": 650,
+		"exp": 1579,
+		"nombre": "Ent",
+		"oro": 650
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Garra de Tigre",
+				"imagenUrl": "/images/drops/1706.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/147.png",
+		"respawnMax": 12,
+		"hp": 700,
+		"exp": 1755,
+		"nombre": "Tigre",
+		"oro": 700
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/414.png",
+		"respawnMax": 12,
+		"hp": 800,
+		"exp": 2500,
+		"nombre": "Huargo de Nieve",
+		"oro": 800
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1346.png",
+		"respawnMax": 12,
+		"hp": 800,
+		"exp": 2500,
+		"nombre": "Asolador Congelado",
+		"oro": 800
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/48.png",
+		"respawnMax": 12,
+		"hp": 850,
+		"exp": 2223,
+		"nombre": "Asesino",
+		"oro": 850
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Piel de Oso Pardo",
+				"imagenUrl": "/images/drops/656.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Pelaje de Oso",
+				"imagenUrl": "/images/drops/1707.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/73.png",
+		"respawnMax": 12,
+		"hp": 920,
+		"exp": 2164,
+		"nombre": "Oso Pardo",
+		"oro": 920
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/42.png",
+		"respawnMax": 12,
+		"hp": 950,
+		"exp": 2223,
+		"nombre": "Araña Gigante",
+		"oro": 950
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/172.png",
+		"respawnMax": 12,
+		"hp": 1000,
+		"exp": 3800,
+		"nombre": "Protector",
+		"oro": 1000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/406.png",
+		"respawnMax": 12,
+		"hp": 1000,
+		"exp": 2340,
+		"nombre": "Jabalí Salvaje",
+		"oro": 1000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/167.png",
+		"respawnMax": 14,
+		"hp": 1100,
+		"exp": 3042,
+		"nombre": "Basilisco",
+		"oro": 1100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/64.png",
+		"respawnMax": 14,
+		"hp": 1100,
+		"exp": 3042,
+		"nombre": "Zombie Imperial",
+		"oro": 1100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 10,
+		"drops": [
+			{
+				"porcentaje": "8",
+				"nombre": "Escama de Koi",
+				"imagenUrl": "/images/drops/3699.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Petalo de Sakura",
+				"imagenUrl": "/images/drops/3701.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1276.png",
+		"respawnMax": 18,
+		"hp": 1100,
+		"exp": 4400,
+		"nombre": "Ryuji",
+		"oro": 1100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.8",
+				"nombre": "Anillo Mágico de Defensa",
+				"imagenUrl": "/images/drops/2008.png"
+			},
+			{
+				"porcentaje": "0.8",
+				"nombre": "Anillo del Guardián",
+				"imagenUrl": "/images/drops/2014.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/498.png",
+		"respawnMax": 130,
+		"hp": 1200,
+		"exp": 4920,
+		"nombre": "Behemot",
+		"oro": 1200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "0.9",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/571.png",
+		"respawnMax": 12,
+		"hp": 1200,
+		"exp": 3168,
+		"nombre": "Orco Brujo",
+		"oro": 1200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/462.png",
+		"respawnMax": 10,
+		"hp": 1200,
+		"exp": 4500,
+		"nombre": "Rata Gigante",
+		"oro": 1200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/148.png",
+		"respawnMax": 12,
+		"hp": 1420,
+		"exp": 3408,
+		"nombre": "Lord Orco",
+		"oro": 1420
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/570.png",
+		"respawnMax": 12,
+		"hp": 1500,
+		"exp": 3744,
+		"nombre": "Jefe Orco",
+		"oro": 1500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/92.png",
+		"respawnMax": 14,
+		"hp": 1600,
+		"exp": 4212,
+		"nombre": "Zombie Imperial",
+		"oro": 1600
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/166.png",
+		"respawnMax": 14,
+		"hp": 1600,
+		"exp": 4212,
+		"nombre": "Cíclope",
+		"oro": 1600
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/149.png",
+		"respawnMax": 12,
+		"hp": 1600,
+		"exp": 5440,
+		"nombre": "Liche",
+		"oro": 1600
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/173.png",
+		"respawnMax": 14,
+		"hp": 1900,
+		"exp": 5000,
+		"nombre": "Fango",
+		"oro": 1900
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/467.png",
+		"respawnMax": 16,
+		"hp": 2100,
+		"exp": 8504,
+		"nombre": "Fuego Elemental Amarillo",
+		"oro": 2100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/472.png",
+		"respawnMax": 16,
+		"hp": 2100,
+		"exp": 9660,
+		"nombre": "Fuego Elemental Fucsia",
+		"oro": 2100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/469.png",
+		"respawnMax": 16,
+		"hp": 2100,
+		"exp": 8505,
+		"nombre": "Fuego Elemental Marron",
+		"oro": 2100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/470.png",
+		"respawnMax": 16,
+		"hp": 2100,
+		"exp": 9660,
+		"nombre": "Fuego Elemental Azul",
+		"oro": 2100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Anillo de las Sombras",
+				"imagenUrl": "/images/drops/2021.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/468.png",
+		"respawnMax": 16,
+		"hp": 2100,
+		"exp": 8505,
+		"nombre": "Fuego Elemental Gris",
+		"oro": 2100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/72.png",
+		"respawnMax": 12,
+		"hp": 2300,
+		"exp": 7000,
+		"nombre": "Beholder",
+		"oro": 2300
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 15,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/793.png",
+		"respawnMax": 20,
+		"hp": 2400,
+		"exp": 9840,
+		"nombre": "Tarántula",
+		"oro": 2400
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/417.png",
+		"respawnMax": 12,
+		"hp": 2500,
+		"exp": 9000,
+		"nombre": "Yuan Ti",
+		"oro": 2500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "0.4",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "3",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/144.png",
+		"respawnMax": 2,
+		"hp": 2500,
+		"exp": 2925,
+		"nombre": "Fuego fatuo",
+		"oro": 2500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/471.png",
+		"respawnMax": 16,
+		"hp": 2600,
+		"exp": 11960,
+		"nombre": "Fuego Elemental Verde",
+		"oro": 2600
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 3,
+		"drops": [
+			{
+				"porcentaje": "1.5",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/135.png",
+		"respawnMax": 3,
+		"hp": 2600,
+		"exp": 8500,
+		"nombre": "Mago Protector",
+		"oro": 2600
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/475.png",
+		"respawnMax": 12,
+		"hp": 3000,
+		"exp": 14100,
+		"nombre": "Esqueleto Poseído",
+		"oro": 3000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Sortija de la Verdad",
+				"imagenUrl": "/images/drops/2017.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/473.png",
+		"respawnMax": 16,
+		"hp": 3100,
+		"exp": 10530,
+		"nombre": "Fuego Elemental Verde Oscuro",
+		"oro": 3100
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/76.png",
+		"respawnMax": 14,
+		"hp": 3200,
+		"exp": 10800,
+		"nombre": "Ogro",
+		"oro": 3200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/522.png",
+		"respawnMax": 50,
+		"hp": 3500,
+		"exp": 4500,
+		"nombre": "Miliciano Zombie",
+		"oro": 3500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/64.png",
+		"respawnMax": 50,
+		"hp": 3500,
+		"exp": 4500,
+		"nombre": "Sagrada Orden Zombie",
+		"oro": 3500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/134.png",
+		"respawnMax": 50,
+		"hp": 3500,
+		"exp": 4500,
+		"nombre": "Caótico Zombie",
+		"oro": 3500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 12,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1147.png",
+		"respawnMax": 20,
+		"hp": 3500,
+		"exp": 11900,
+		"nombre": "Merodeador",
+		"oro": 3500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Anillo de las Sombras",
+				"imagenUrl": "/images/drops/2021.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/245.png",
+		"respawnMax": 14,
+		"hp": 3500,
+		"exp": 10400,
+		"nombre": "Aparición",
+		"oro": 3500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/237.png",
+		"respawnMax": 14,
+		"hp": 3900,
+		"exp": 10920,
+		"nombre": "Ogro Guerrero",
+		"oro": 3900
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/223.png",
+		"respawnMax": 12,
+		"hp": 4000,
+		"exp": 16000,
+		"nombre": "Hombre Lagarto",
+		"oro": 4000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 4,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1145.png",
+		"respawnMax": 8,
+		"hp": 4000,
+		"exp": 19200,
+		"nombre": "Koohku",
+		"oro": 4000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "30",
+				"nombre": "Arco Simple",
+				"imagenUrl": "/images/drops/1214.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Flecha",
+				"imagenUrl": "/images/drops/1215.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/110.png",
+		"respawnMax": 12,
+		"hp": 4000,
+		"exp": 12000,
+		"nombre": "Arquero Pirata",
+		"oro": 4000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 18,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			},
+			{
+				"porcentaje": "0.2",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/125.png",
+		"respawnMax": 24,
+		"hp": 4200,
+		"exp": 14700,
+		"nombre": "Bruja",
+		"oro": 4200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [
+			{
+				"porcentaje": "5",
+				"nombre": "Petalo de Sakura",
+				"imagenUrl": "/images/drops/3701.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Escama de Koi",
+				"imagenUrl": "/images/drops/3699.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1275.png",
+		"respawnMax": 35,
+		"hp": 4500,
+		"exp": 20250,
+		"nombre": "Hayato",
+		"oro": 4500
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1171.png",
+		"respawnMax": 6,
+		"hp": 5000,
+		"exp": 22000,
+		"nombre": "Núcleo de Magma",
+		"oro": 5000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "0.5",
+				"nombre": "Pendiente del Asesino",
+				"imagenUrl": "/images/drops/2016.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/494.png",
+		"respawnMax": 3,
+		"hp": 5000,
+		"exp": 21000,
+		"nombre": "Abigor",
+		"oro": 5000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [
+			{
+				"porcentaje": "2",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1043.png",
+		"respawnMax": 30,
+		"hp": 5200,
+		"exp": 22360,
+		"nombre": "Tarántula Azul",
+		"oro": 5200
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 12,
+		"drops": [
+			{
+				"porcentaje": "2",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1072.png",
+		"respawnMax": 20,
+		"hp": 5500,
+		"exp": 14850,
+		"nombre": "Viuda Negra",
+		"oro": 5500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "0.03",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/219.png",
+		"respawnMax": 30,
+		"hp": 6000,
+		"exp": 27600,
+		"nombre": "Crako",
+		"oro": 6000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "0.8",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Botas de Celeridad",
+				"imagenUrl": "/images/drops/2003.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/493.png",
+		"respawnMax": 3,
+		"hp": 6000,
+		"exp": 25800,
+		"nombre": "Pyros",
+		"oro": 6000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/110.png",
+		"respawnMax": 12,
+		"hp": 6500,
+		"exp": 19435,
+		"nombre": "Guerrero Pirata",
+		"oro": 6500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1146.png",
+		"respawnMax": 12,
+		"hp": 6500,
+		"exp": 22750,
+		"nombre": "Levethan",
+		"oro": 6500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.5",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 1 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Ojo de Medusa",
+				"imagenUrl": "/images/drops/3812.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/367.png",
+		"respawnMax": 35,
+		"hp": 7000,
+		"exp": 28600,
+		"nombre": "Medusa",
+		"oro": 7000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 0.03 %",
+				"imagenUrl": "/images/drops/2601.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/99.png",
+		"respawnMax": 25,
+		"hp": 7000,
+		"exp": 28600,
+		"nombre": "Leviatán",
+		"oro": 7000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "7",
+				"nombre": "Petalo de Sakura",
+				"imagenUrl": "/images/drops/3701.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1274.png",
+		"respawnMax": 40,
+		"hp": 7200,
+		"exp": 36000,
+		"nombre": "Kazan",
+		"oro": 7200
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "5",
+				"nombre": "Escama de Dragon Verde",
+				"imagenUrl": "/images/drops/3703.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/699.png",
+		"respawnMax": 10,
+		"hp": 7500,
+		"exp": 21000,
+		"nombre": "Cría de Dragón Verde",
+		"oro": 7500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 10,
+		"drops": [],
+		"imageUrl": "/images/criaturas/440.png",
+		"respawnMax": 12,
+		"hp": 7500,
+		"exp": 36000,
+		"nombre": "Esqueleto Guardián",
+		"oro": 7500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 12,
+		"drops": [
+			{
+				"porcentaje": "8",
+				"nombre": "Anillo del Guerrero",
+				"imagenUrl": "/images/drops/2011.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/460.png",
+		"respawnMax": 16,
+		"hp": 8000,
+		"exp": 39200,
+		"nombre": "Lacayo del Mal",
+		"oro": 8000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 12,
+		"drops": [],
+		"imageUrl": "/images/criaturas/369.png",
+		"respawnMax": 16,
+		"hp": 8000,
+		"exp": 32800,
+		"nombre": "Momia",
+		"oro": 8000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/277.png",
+		"respawnMax": 36,
+		"hp": 8000,
+		"exp": 30550,
+		"nombre": "Sirena",
+		"oro": 8000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 12,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1151.png",
+		"respawnMax": 20,
+		"hp": 8000,
+		"exp": 24000,
+		"nombre": "Escorpión Gigante",
+		"oro": 8000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 6,
+		"drops": [],
+		"imageUrl": "/images/criaturas/425.png",
+		"respawnMax": 12,
+		"hp": 8000,
+		"exp": 21600,
+		"nombre": "Saqueador de Minas",
+		"oro": 8000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "0.05",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "0.8",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "2.5",
+				"nombre": "Botas de Celeridad",
+				"imagenUrl": "/images/drops/2003.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/496.png",
+		"respawnMax": 10,
+		"hp": 9000,
+		"exp": 39600,
+		"nombre": "Gran Pyros",
+		"oro": 9000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "0.05",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/670.png",
+		"respawnMax": 12,
+		"hp": 10000,
+		"exp": 40800,
+		"nombre": "Conjuradora",
+		"oro": 10000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "0.5",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/418.png",
+		"respawnMax": 30,
+		"hp": 10000,
+		"exp": 41000,
+		"nombre": "Chamán Ártico",
+		"oro": 10000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 15,
+		"drops": [],
+		"imageUrl": "/images/criaturas/449.png",
+		"respawnMax": 18,
+		"hp": 10000,
+		"exp": 50000,
+		"nombre": "Sanguijuela Gigante",
+		"oro": 10000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 9,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1143.png",
+		"respawnMax": 13,
+		"hp": 10000,
+		"exp": 54000,
+		"nombre": "Caminante Eterno",
+		"oro": 10000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 130,
+		"drops": [
+			{
+				"porcentaje": "0.05",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 1 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "0.05",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/497.png",
+		"respawnMax": 4,
+		"hp": 11000,
+		"exp": 49500,
+		"nombre": "Gárgola Abisal",
+		"oro": 11000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1347.png",
+		"respawnMax": 45,
+		"hp": 11000,
+		"exp": 47300,
+		"nombre": "Huargo de Nieve Feroz",
+		"oro": 11000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 27,
+		"drops": [],
+		"imageUrl": "/images/criaturas/558.png",
+		"respawnMax": 32,
+		"hp": 12000,
+		"exp": 54000,
+		"nombre": "Arquero Drow",
+		"oro": 12000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1212.png",
+		"respawnMax": 30,
+		"hp": 12000,
+		"exp": 60000,
+		"nombre": "Naga",
+		"oro": 12000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "2",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/995.png",
+		"respawnMax": 12,
+		"hp": 15000,
+		"exp": 63000,
+		"nombre": "Asolador de la Oscuridad",
+		"oro": 15000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Colgante del Experto",
+				"imagenUrl": "/images/drops/2000.png"
+			},
+			{
+				"porcentaje": "0.9",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "0.01",
+				"nombre": "Hueso Abisal",
+				"imagenUrl": "/images/drops/3813.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/365.png",
+		"respawnMax": 30,
+		"hp": 15000,
+		"exp": 63000,
+		"nombre": "Demonio",
+		"oro": 15000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "7",
+				"nombre": "Escama de Dragon Azul",
+				"imagenUrl": "/images/drops/3702.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/693.png",
+		"respawnMax": 10,
+		"hp": 15000,
+		"exp": 45000,
+		"nombre": "Cría de Dragón Azul",
+		"oro": 15000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [
+			{
+				"porcentaje": "3",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1172.png",
+		"respawnMax": 30,
+		"hp": 16000,
+		"exp": 83200,
+		"nombre": "Serpiente de Jade",
+		"oro": 16000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [],
+		"imageUrl": "/images/criaturas/559.png",
+		"respawnMax": 35,
+		"hp": 16000,
+		"exp": 73600,
+		"nombre": "Lancero Drow",
+		"oro": 16000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "0.6",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Petalo de Sakura",
+				"imagenUrl": "/images/drops/3701.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1273.png",
+		"respawnMax": 45,
+		"hp": 17000,
+		"exp": 93500,
+		"nombre": "Tatsu",
+		"oro": 17000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "0.5",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "0.4",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/459.png",
+		"respawnMax": 25,
+		"hp": 17000,
+		"exp": 86700,
+		"nombre": "Alma Cautiva",
+		"oro": 17000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "0.2",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/451.png",
+		"respawnMax": 25,
+		"hp": 18000,
+		"exp": 93600,
+		"nombre": "Fantasma",
+		"oro": 18000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [
+			{
+				"porcentaje": "0.4",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "0.4",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/446.png",
+		"respawnMax": 30,
+		"hp": 18000,
+		"exp": 96000,
+		"nombre": "Espectro",
+		"oro": 18000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [],
+		"imageUrl": "/images/criaturas/439.png",
+		"respawnMax": 30,
+		"hp": 18500,
+		"exp": 94350,
+		"nombre": "Corruptor",
+		"oro": 18500
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "1.5",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "3",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1069.png",
+		"respawnMax": 12,
+		"hp": 20000,
+		"exp": 76000,
+		"nombre": "Cobra",
+		"oro": 20000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "8",
+				"nombre": "Escama de Dragon Negro",
+				"imagenUrl": "/images/drops/3705.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/696.png",
+		"respawnMax": 10,
+		"hp": 20000,
+		"exp": 60000,
+		"nombre": "Cría de Dragón Negro",
+		"oro": 20000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 45,
+		"drops": [],
+		"imageUrl": "/images/criaturas/878.png",
+		"respawnMax": 1,
+		"hp": 20000,
+		"exp": 90000,
+		"nombre": "Orco Domador",
+		"oro": 20000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "0.04",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "0.30",
+				"nombre": "Ojo de Medusa",
+				"imagenUrl": "/images/drops/3812.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/368.png",
+		"respawnMax": 40,
+		"hp": 21000,
+		"exp": 91400,
+		"nombre": "Medusa Matriarch",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [],
+		"imageUrl": "/images/criaturas/441.png",
+		"respawnMax": 25,
+		"hp": 21000,
+		"exp": 109200,
+		"nombre": "Turbador Sombrío",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/565.png",
+		"respawnMax": 45,
+		"hp": 21000,
+		"exp": 92400,
+		"nombre": "Nerkhan",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [],
+		"imageUrl": "/images/criaturas/559.png",
+		"respawnMax": 40,
+		"hp": 21000,
+		"exp": 98700,
+		"nombre": "Lancera Drow",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 20,
+		"drops": [
+			{
+				"porcentaje": "0.4",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/376.png",
+		"respawnMax": 25,
+		"hp": 21000,
+		"exp": 110250,
+		"nombre": "Archne",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 6,
+		"drops": [
+			{
+				"porcentaje": "0.9",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 1.8 %",
+				"imagenUrl": "/images/drops/2601.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/564.png",
+		"respawnMax": 8,
+		"hp": 21000,
+		"exp": 94500,
+		"nombre": "Hechicero de la Oscuridad",
+		"oro": 21000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 45,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1346.png",
+		"respawnMax": 1,
+		"hp": 22000,
+		"exp": 99000,
+		"nombre": "Asesino Gélido",
+		"oro": 22000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [
+			{
+				"porcentaje": "50",
+				"nombre": "Colmillo de Lobo",
+				"imagenUrl": "/images/drops/1703.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Colmillo de Lobo",
+				"imagenUrl": "/images/drops/1703.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/450.png",
+		"respawnMax": 45,
+		"hp": 22500,
+		"exp": 119250,
+		"nombre": "Hombre Lobo",
+		"oro": 22500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 220,
+		"drops": [
+			{
+				"porcentaje": "20",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/678.png",
+		"respawnMax": 4,
+		"hp": 22500,
+		"exp": 88000,
+		"nombre": "Gólem de Bronce (Minas de Illiandor)",
+		"oro": 22500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 220,
+		"drops": [
+			{
+				"porcentaje": "20",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/364.png",
+		"respawnMax": 4,
+		"hp": 22500,
+		"exp": 88000,
+		"nombre": "Gladiador",
+		"oro": 22500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 220,
+		"drops": [
+			{
+				"porcentaje": "25",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/429.png",
+		"respawnMax": 4,
+		"hp": 22500,
+		"exp": 88000,
+		"nombre": "Ogro Líder",
+		"oro": 22500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 35,
+		"drops": [
+			{
+				"porcentaje": "0.02",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "0.02",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 0.5 %",
+				"imagenUrl": "/images/drops/2601.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/996.png",
+		"respawnMax": 40,
+		"hp": 25000,
+		"exp": 100000,
+		"nombre": "Banshee",
+		"oro": 25000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 50,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "0.25",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "0.2",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/447.png",
+		"respawnMax": 1,
+		"hp": 25000,
+		"exp": 127300,
+		"nombre": "Castigador",
+		"oro": 25000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 330,
+		"drops": [
+			{
+				"porcentaje": "0.5",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "1.5",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Vara Mágica (+30)",
+				"imagenUrl": "/images/drops/2015.png"
+			},
+			{
+				"porcentaje": "35",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/574.png",
+		"respawnMax": 6,
+		"hp": 27000,
+		"exp": 107900,
+		"nombre": "Kraken",
+		"oro": 27000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 45,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Hierro",
+				"imagenUrl": "/images/drops/660.png"
+			},
+			{
+				"porcentaje": "4",
+				"nombre": "Roca Escarlata",
+				"imagenUrl": "/images/drops/1709.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/373.png",
+		"respawnMax": 115,
+		"hp": 30000,
+		"exp": 114000,
+		"nombre": "Gólem de Bronce",
+		"oro": 30000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 1230,
+		"drops": [
+			{
+				"porcentaje": "10",
+				"nombre": "Escamas de Dragón",
+				"imagenUrl": "/images/drops/1708.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/695.png",
+		"respawnMax": 1730,
+		"hp": 30000,
+		"exp": 53625,
+		"nombre": "Cría de Dragón Legendario",
+		"oro": 30000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.1",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "0.05",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/438.png",
+		"respawnMax": 50,
+		"hp": 30000,
+		"exp": 162000,
+		"nombre": "Vampiresa",
+		"oro": 30000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 25,
+		"drops": [],
+		"imageUrl": "/images/criaturas/445.png",
+		"respawnMax": 30,
+		"hp": 32000,
+		"exp": 176000,
+		"nombre": "Desertor de las Tinieblas",
+		"oro": 32000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.15",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "0.05",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/434.png",
+		"respawnMax": 50,
+		"hp": 33000,
+		"exp": 181500,
+		"nombre": "Vampiro",
+		"oro": 33000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 5,
+		"drops": [
+			{
+				"porcentaje": "10",
+				"nombre": "Escama de Dragon Rojo",
+				"imagenUrl": "/images/drops/3706.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/698.png",
+		"respawnMax": 10,
+		"hp": 35000,
+		"exp": 105000,
+		"nombre": "Cría de Dragón Rojo",
+		"oro": 35000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 1,
+		"drops": [
+			{
+				"porcentaje": "0.05",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "0.15",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "1.5",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1144.png",
+		"respawnMax": 110,
+		"hp": 37500,
+		"exp": 217500,
+		"nombre": "Eco del Pasado",
+		"oro": 37500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Anillo del Guardián",
+				"imagenUrl": "/images/drops/2014.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/458.png",
+		"respawnMax": 35,
+		"hp": 40000,
+		"exp": 228000,
+		"nombre": "Adosador de la Muerte",
+		"oro": 40000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 45,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 0.5 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "0.25",
+				"nombre": "Hueso Abisal",
+				"imagenUrl": "/images/drops/3813.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/363.png",
+		"respawnMax": 1,
+		"hp": 40000,
+		"exp": 176000,
+		"nombre": "Demonio Abisal",
+		"oro": 40000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "0.2",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 1 %",
+				"imagenUrl": "/images/drops/2601.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/500.png",
+		"respawnMax": 45,
+		"hp": 45000,
+		"exp": 207000,
+		"nombre": "Egipan",
+		"oro": 45000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 130,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Petalo de Sakura",
+				"imagenUrl": "/images/drops/3701.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1272.png",
+		"respawnMax": 2,
+		"hp": 45000,
+		"exp": 261000,
+		"nombre": "Nue",
+		"oro": 45000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 1640,
+		"drops": [
+			{
+				"porcentaje": "12",
+				"nombre": "Escamas de Dragón",
+				"imagenUrl": "/images/drops/1708.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/697.png",
+		"respawnMax": 2140,
+		"hp": 45000,
+		"exp": 77220,
+		"nombre": "Cría de Rey Dragón",
+		"oro": 45000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Roca Escarlata",
+				"imagenUrl": "/images/drops/1709.png"
+			},
+			{
+				"porcentaje": "0.2",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/371.png",
+		"respawnMax": 230,
+		"hp": 46500,
+		"exp": 181350,
+		"nombre": "Gólem de Piedra",
+		"oro": 46500
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 110,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1149.png",
+		"respawnMax": 120,
+		"hp": 50000,
+		"exp": 290000,
+		"nombre": "Vespertilago",
+		"oro": 50000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 110,
+		"drops": [
+			{
+				"porcentaje": "0.015",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "0.2",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/443.png",
+		"respawnMax": 120,
+		"hp": 50000,
+		"exp": 300000,
+		"nombre": "Hechicero de Aire",
+		"oro": 50000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 430,
+		"drops": [
+			{
+				"porcentaje": "50",
+				"nombre": "Orbe de la Ponzoña",
+				"imagenUrl": "/images/drops/2024.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Hilo de Bordar",
+				"imagenUrl": "/images/drops/2596.png"
+			},
+			{
+				"porcentaje": "3",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "2.5",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/553.png",
+		"respawnMax": 730,
+		"hp": 51000,
+		"exp": 255000,
+		"nombre": "Matriarca Drow",
+		"oro": 51000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 110,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			},
+			{
+				"porcentaje": "0.01",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/442.png",
+		"respawnMax": 120,
+		"hp": 55000,
+		"exp": 330000,
+		"nombre": "Hechicero de Agua",
+		"oro": 55000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 110,
+		"drops": [
+			{
+				"porcentaje": "0.03",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/433.png",
+		"respawnMax": 120,
+		"hp": 61000,
+		"exp": 366000,
+		"nombre": "Hechicero de Fuego",
+		"oro": 61000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 110,
+		"drops": [
+			{
+				"porcentaje": "0.015",
+				"nombre": "Orbe de Inhibición",
+				"imagenUrl": "/images/drops/2607.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "0.01",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/444.png",
+		"respawnMax": 120,
+		"hp": 66000,
+		"exp": 396000,
+		"nombre": "Hechicero de Tierra",
+		"oro": 66000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 1,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			},
+			{
+				"porcentaje": "0.1",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/370.png",
+		"respawnMax": 130,
+		"hp": 68000,
+		"exp": 340000,
+		"nombre": "Yeti",
+		"oro": 68000
+	},
+	{
+		"respawnUnidad": "s",
+		"respawnMin": 3320,
+		"drops": [
+			{
+				"porcentaje": "2.1",
+				"nombre": "Gema Gris",
+				"imagenUrl": "/images/drops/2557.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Plata",
+				"imagenUrl": "/images/drops/661.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Roca Escarlata",
+				"imagenUrl": "/images/drops/1709.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/375.png",
+		"respawnMax": 4640,
+		"hp": 72000,
+		"exp": 309600,
+		"nombre": "Gólem de Plata",
+		"oro": 72000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 4,
+		"drops": [
+			{
+				"porcentaje": "0.2",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "2.25",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 1 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "0.15",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/499.png",
+		"respawnMax": 9,
+		"hp": 75000,
+		"exp": 352500,
+		"nombre": "Alasto",
+		"oro": 75000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 3,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Cristal del Éter",
+				"imagenUrl": "/images/drops/3823.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/474.png",
+		"respawnMax": 4,
+		"hp": 77000,
+		"exp": 481250,
+		"nombre": "Profeta Arcano",
+		"oro": 77000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 10,
+		"drops": [
+			{
+				"porcentaje": "0.3",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/562.png",
+		"respawnMax": 15,
+		"hp": 80000,
+		"exp": 440000,
+		"nombre": "Aranhae",
+		"oro": 80000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 3,
+		"drops": [
+			{
+				"porcentaje": "1",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "0.03",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "0.3",
+				"nombre": "Cristal del Éter",
+				"imagenUrl": "/images/drops/3823.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/477.png",
+		"respawnMax": 4,
+		"hp": 91000,
+		"exp": 582400,
+		"nombre": "Guardián",
+		"oro": 91000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 3640,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Roca Escarlata",
+				"imagenUrl": "/images/drops/1709.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Gema Dorada",
+				"imagenUrl": "/images/drops/2555.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Oro",
+				"imagenUrl": "/images/drops/662.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1190.png",
+		"respawnMax": 11,
+		"hp": 100000,
+		"exp": 440000,
+		"nombre": "Gólem de Oro",
+		"oro": 100000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 1,
+		"drops": [
+			{
+				"porcentaje": "25",
+				"nombre": "Cola de Gorgona",
+				"imagenUrl": "/images/drops/3737.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "75",
+				"nombre": "Ojo de Medusa",
+				"imagenUrl": "/images/drops/3812.png"
+			},
+			{
+				"porcentaje": "45",
+				"nombre": "Ojo de Medusa",
+				"imagenUrl": "/images/drops/3812.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/642.png",
+		"respawnMax": 2,
+		"hp": 120000,
+		"exp": 624000,
+		"nombre": "Gorgona",
+		"oro": 120000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "2",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "0.7",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1173.png",
+		"respawnMax": 2,
+		"hp": 125000,
+		"exp": 762500,
+		"nombre": "Gorath",
+		"oro": 125000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1271.png",
+		"respawnMax": 15,
+		"hp": 125000,
+		"exp": 875000,
+		"nombre": "Oni",
+		"oro": 125000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 2,
+		"drops": [
+			{
+				"porcentaje": "5",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Escama de Dragon Verde",
+				"imagenUrl": "/images/drops/3703.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "35",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/360.png",
+		"respawnMax": 5,
+		"hp": 130000,
+		"exp": 715000,
+		"nombre": "Gran Dragón Verde",
+		"oro": 130000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 4140,
+		"drops": [
+			{
+				"porcentaje": "8",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "1",
+				"nombre": "Gema Naranja",
+				"imagenUrl": "/images/drops/2556.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "3",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/374.png",
+		"respawnMax": 110,
+		"hp": 150000,
+		"exp": 660000,
+		"nombre": "Gólem Infernal",
+		"oro": 150000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 10,
+		"drops": [
+			{
+				"porcentaje": "5",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			},
+			{
+				"porcentaje": "0.5",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/377.png",
+		"respawnMax": 15,
+		"hp": 175000,
+		"exp": 770000,
+		"nombre": "Gólem de Hielo",
+		"oro": 175000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "75",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "2.5",
+				"nombre": "Orbe Sangrienta",
+				"imagenUrl": "/images/drops/3585.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/463.png",
+		"respawnMax": 45,
+		"hp": 175000,
+		"exp": 997500,
+		"nombre": "Vampiro Transformado",
+		"oro": 175000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Escama de Dragon Azul",
+				"imagenUrl": "/images/drops/3702.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "2.5",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Escudo de Reflexión (RM +15)",
+				"imagenUrl": "/images/drops/2119.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 25 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/359.png",
+		"respawnMax": 14,
+		"hp": 200000,
+		"exp": 1000000,
+		"nombre": "Gran Dragón Azul",
+		"oro": 200000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 7,
+		"drops": [
+			{
+				"porcentaje": "20",
+				"nombre": "Pergamino Rúnico",
+				"imagenUrl": "/images/drops/3819.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 25 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1153.png",
+		"respawnMax": 10,
+		"hp": 250000,
+		"exp": 1375000,
+		"nombre": "Abyssaria",
+		"oro": 250000
+	},
+	{
+		"respawnUnidad": "m",
+		"respawnMin": 30,
+		"drops": [
+			{
+				"porcentaje": "75",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "2",
+				"nombre": "Cristal del Éter",
+				"imagenUrl": "/images/drops/3823.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/480.png",
+		"respawnMax": 45,
+		"hp": 250000,
+		"exp": 1675000,
+		"nombre": "Gran Hechicero Garveloth",
+		"oro": 250000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 2,
+		"drops": [],
+		"imageUrl": "/images/criaturas/1002.png",
+		"respawnMax": 330,
+		"hp": 310000,
+		"exp": 1800000,
+		"nombre": "Lilith",
+		"oro": 310000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 8,
+		"drops": [],
+		"imageUrl": "/images/criaturas/591.png",
+		"respawnMax": 20,
+		"hp": 320000,
+		"exp": 2560000,
+		"nombre": "Khern Ghard (TEST)",
+		"oro": 320000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 10,
+		"drops": [
+			{
+				"porcentaje": "15",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Escama de Dragon Rojo",
+				"imagenUrl": "/images/drops/3706.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 30 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/358.png",
+		"respawnMax": 17,
+		"hp": 320000,
+		"exp": 1920000,
+		"nombre": "Gran Dragón Rojo",
+		"oro": 320000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 8,
+		"drops": [
+			{
+				"porcentaje": "3",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Amuleto del Silencio",
+				"imagenUrl": "/images/drops/2020.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Roca Ignea",
+				"imagenUrl": "/images/drops/3816.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Túnica de Absorción Mágica (RM +8)",
+				"imagenUrl": "/images/drops/2202.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Cristal del Éter",
+				"imagenUrl": "/images/drops/3823.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/998.png",
+		"respawnMax": 20,
+		"hp": 320000,
+		"exp": 2560000,
+		"nombre": "Djinn",
+		"oro": 320000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 9,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "45",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "35",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/1211.png",
+		"respawnMax": 18,
+		"hp": 420000,
+		"exp": 3780000,
+		"nombre": "Eishnër",
+		"oro": 420000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 12,
+		"drops": [
+			{
+				"porcentaje": "20",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Escama de Dragon Negro",
+				"imagenUrl": "/images/drops/3705.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "7",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "60",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			},
+			{
+				"porcentaje": "",
+				"nombre": "Báculo Oscuro DM+5 40 %",
+				"imagenUrl": "/images/drops/2601.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Gorro Mágico (RM +10)",
+				"imagenUrl": "/images/drops/2028.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/362.png",
+		"respawnMax": 20,
+		"hp": 440000,
+		"exp": 2640000,
+		"nombre": "Gran Dragón Negro",
+		"oro": 440000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 15,
+		"drops": [
+			{
+				"porcentaje": "100",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "60",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "4",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "6",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Cráneo Abisal",
+				"imagenUrl": "/images/drops/3820.png"
+			},
+			{
+				"porcentaje": "5",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Hueso Abisal",
+				"imagenUrl": "/images/drops/3813.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/644.png",
+		"respawnMax": 22,
+		"hp": 500000,
+		"exp": 4500000,
+		"nombre": "Archimago Abisal",
+		"oro": 200000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 16,
+		"drops": [
+			{
+				"porcentaje": "35",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Báculo de Hechicero (DM +10)",
+				"imagenUrl": "/images/drops/2611.png"
+			},
+			{
+				"porcentaje": "17",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Escamas de Dragón",
+				"imagenUrl": "/images/drops/1708.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "8",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "45",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "55",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "70",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			},
+			{
+				"porcentaje": "12",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/361.png",
+		"respawnMax": 24,
+		"hp": 650000,
+		"exp": 4225000,
+		"nombre": "Dragón Legendario",
+		"oro": 650000
+	},
+	{
+		"respawnUnidad": "h",
+		"respawnMin": 22,
+		"drops": [
+			{
+				"porcentaje": "50",
+				"nombre": "Gema Lunar",
+				"imagenUrl": "/images/drops/2025.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Báculo del Gran Hechicero (DM+15)",
+				"imagenUrl": "/images/drops/2026.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Orbe Acuática",
+				"imagenUrl": "/images/drops/2023.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Orbe Ígnea",
+				"imagenUrl": "/images/drops/2022.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Brazalete del Ogro (+30)",
+				"imagenUrl": "/images/drops/2007.png"
+			},
+			{
+				"porcentaje": "100",
+				"nombre": "Escamas de Dragón",
+				"imagenUrl": "/images/drops/1708.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Gorro Mágico (RM +20)",
+				"imagenUrl": "/images/drops/2029.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Escudo de Reflexión (RM+30)",
+				"imagenUrl": "/images/drops/2027.png"
+			},
+			{
+				"porcentaje": "25",
+				"nombre": "Túnica de Absorción Mágica (RM +15)",
+				"imagenUrl": "/images/drops/2203.png"
+			},
+			{
+				"porcentaje": "10",
+				"nombre": "Collar de Rykan",
+				"imagenUrl": "/images/drops/4.png"
+			},
+			{
+				"porcentaje": "20",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "30",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "35",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "40",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "50",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "60",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "75",
+				"nombre": "Fragmento de Pendiente del Sacrificio",
+				"imagenUrl": "/images/drops/2019.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Bélico (Armas)",
+				"imagenUrl": "/images/drops/3554.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Celestial (Armaduras y Tunicas)",
+				"imagenUrl": "/images/drops/3578.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Aegis (Escudos)",
+				"imagenUrl": "/images/drops/3579.png"
+			},
+			{
+				"porcentaje": "15",
+				"nombre": "Cofre Protector (Cascos y Gorros)",
+				"imagenUrl": "/images/drops/3580.png"
+			}
+		],
+		"imageUrl": "/images/criaturas/432.png",
+		"respawnMax": 30,
+		"hp": 900000,
+		"exp": 6750000,
+		"nombre": "Rey Dragón",
+		"oro": 900000
+	}
+]
