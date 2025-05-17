@@ -1,2382 +1,2346 @@
 [
-	{
-		"drop": "Gema Gris",
-		"criaturas": [
-			{
-				"porcentaje": "2.1",
-				"nombre": "Gólem de Plata",
-				"imagenUrl": "/images/criaturas/375.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2557.png"
-	},
-	{
-		"drop": "Cofre Aegis (Escudos)",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Hechicero de Aire",
-				"imagenUrl": "/images/criaturas/443.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Hielo",
-				"imagenUrl": "/images/criaturas/377.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3579.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 1.8 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Hechicero de la Oscuridad",
-				"imagenUrl": "/images/criaturas/564.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Roca Escarlata",
-		"criaturas": [
-			{
-				"porcentaje": "4",
-				"nombre": "Gólem de Bronce",
-				"imagenUrl": "/images/criaturas/373.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gólem de Piedra",
-				"imagenUrl": "/images/criaturas/371.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gólem de Plata",
-				"imagenUrl": "/images/criaturas/375.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gólem de Oro",
-				"imagenUrl": "/images/criaturas/1190.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1709.png"
-	},
-	{
-		"drop": "Colgante del Experto",
-		"criaturas": [
-			{
-				"porcentaje": "1",
-				"nombre": "Demonio",
-				"imagenUrl": "/images/criaturas/365.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2000.png"
-	},
-	{
-		"drop": "Escudo de Reflexión (RM+30)",
-		"criaturas": [
-			{
-				"porcentaje": "0.1",
-				"nombre": "Yeti",
-				"imagenUrl": "/images/criaturas/370.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Aranhae",
-				"imagenUrl": "/images/criaturas/562.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Guardián",
-				"imagenUrl": "/images/criaturas/477.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "2.5",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "7",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "6",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2027.png"
-	},
-	{
-		"drop": "Cofre Protector (Cascos y Gorros)",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Hechicero de Agua",
-				"imagenUrl": "/images/criaturas/442.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3580.png"
-	},
-	{
-		"drop": "Pluma de Águila",
-		"criaturas": [
-			{
-				"porcentaje": "15",
-				"nombre": "Águila",
-				"imagenUrl": "/images/criaturas/59.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1702.png"
-	},
-	{
-		"drop": "Escamas de Dragón",
-		"criaturas": [
-			{
-				"porcentaje": "10",
-				"nombre": "Cría de Dragón Legendario",
-				"imagenUrl": "/images/criaturas/695.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Cría de Rey Dragón",
-				"imagenUrl": "/images/criaturas/697.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1708.png"
-	},
-	{
-		"drop": "Arco Simple",
-		"criaturas": [
-			{
-				"porcentaje": "30",
-				"nombre": "Arquero Pirata",
-				"imagenUrl": "/images/criaturas/110.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1214.png"
-	},
-	{
-		"drop": "Piel de Oso Pardo",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Oso Pardo",
-				"imagenUrl": "/images/criaturas/73.png"
-			}
-		],
-		"imagenUrl": "/images/drops/656.png"
-	},
-	{
-		"drop": "Raíz",
-		"criaturas": [
-			{
-				"porcentaje": "7",
-				"nombre": "Ent",
-				"imagenUrl": "/images/criaturas/273.png"
-			}
-		],
-		"imagenUrl": "/images/drops/650.png"
-	},
-	{
-		"drop": "Gema Dorada",
-		"criaturas": [
-			{
-				"porcentaje": "2",
-				"nombre": "Gólem de Oro",
-				"imagenUrl": "/images/criaturas/1190.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2555.png"
-	},
-	{
-		"drop": "Cristal del Éter",
-		"criaturas": [
-			{
-				"porcentaje": "0.3",
-				"nombre": "Profeta Arcano",
-				"imagenUrl": "/images/criaturas/474.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Guardián",
-				"imagenUrl": "/images/criaturas/477.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3823.png"
-	},
-	{
-		"drop": "Hueso Abisal",
-		"criaturas": [
-			{
-				"porcentaje": "0.01",
-				"nombre": "Demonio",
-				"imagenUrl": "/images/criaturas/365.png"
-			},
-			{
-				"porcentaje": "0.25",
-				"nombre": "Demonio Abisal",
-				"imagenUrl": "/images/criaturas/363.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3813.png"
-	},
-	{
-		"drop": "Botas de Celeridad",
-		"criaturas": [
-			{
-				"porcentaje": "2",
-				"nombre": "Pyros",
-				"imagenUrl": "/images/criaturas/493.png"
-			},
-			{
-				"porcentaje": "2.5",
-				"nombre": "Gran Pyros",
-				"imagenUrl": "/images/criaturas/496.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2003.png"
-	},
-	{
-		"drop": "Hierro",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Gólem de Bronce",
-				"imagenUrl": "/images/criaturas/373.png"
-			}
-		],
-		"imagenUrl": "/images/drops/660.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 0.03 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Leviatán",
-				"imagenUrl": "/images/criaturas/99.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Orbe Sangrienta",
-		"criaturas": [
-			{
-				"porcentaje": "2.5",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3585.png"
-	},
-	{
-		"drop": "Hilo de Bordar",
-		"criaturas": [
-			{
-				"porcentaje": "10",
-				"nombre": "Cría Arácnida",
-				"imagenUrl": "/images/criaturas/465.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Cría Arácnida",
-				"imagenUrl": "/images/criaturas/465.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Araña Gigante",
-				"imagenUrl": "/images/criaturas/42.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Tarántula",
-				"imagenUrl": "/images/criaturas/793.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Tarántula Azul",
-				"imagenUrl": "/images/criaturas/1043.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Viuda Negra",
-				"imagenUrl": "/images/criaturas/1072.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Nerkhan",
-				"imagenUrl": "/images/criaturas/565.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Matriarca Drow",
-				"imagenUrl": "/images/criaturas/553.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2596.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 1 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Medusa",
-				"imagenUrl": "/images/criaturas/367.png"
-			},
-			{
-				"porcentaje": "",
-				"nombre": "Gárgola Abisal",
-				"imagenUrl": "/images/criaturas/497.png"
-			},
-			{
-				"porcentaje": "",
-				"nombre": "Egipan",
-				"imagenUrl": "/images/criaturas/500.png"
-			},
-			{
-				"porcentaje": "",
-				"nombre": "Alasto",
-				"imagenUrl": "/images/criaturas/499.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 25 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Orbe Acuática",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Chamán Ártico",
-				"imagenUrl": "/images/criaturas/418.png"
-			},
-			{
-				"porcentaje": "35",
-				"nombre": "Kraken",
-				"imagenUrl": "/images/criaturas/574.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Hechicero de Agua",
-				"imagenUrl": "/images/criaturas/442.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Yeti",
-				"imagenUrl": "/images/criaturas/370.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Hielo",
-				"imagenUrl": "/images/criaturas/377.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2023.png"
-	},
-	{
-		"drop": "Cráneo Abisal",
-		"criaturas": [
-			{
-				"porcentaje": "10",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3820.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 40 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Cola de Gorgona",
-		"criaturas": [
-			{
-				"porcentaje": "25",
-				"nombre": "Gorgona",
-				"imagenUrl": "/images/criaturas/642.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3737.png"
-	},
-	{
-		"drop": "Piel de Lobo",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Lobo",
-				"imagenUrl": "/images/criaturas/10.png"
-			}
-		],
-		"imagenUrl": "/images/drops/655.png"
-	},
-	{
-		"drop": "Escama de Dragon Azul",
-		"criaturas": [
-			{
-				"porcentaje": "7",
-				"nombre": "Cría de Dragón Azul",
-				"imagenUrl": "/images/criaturas/693.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3702.png"
-	},
-	{
-		"drop": "Escudo de Tortuga",
-		"criaturas": [
-			{
-				"porcentaje": "20",
-				"nombre": "Tortuga Gigante",
-				"imagenUrl": "/images/criaturas/74.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1216.png"
-	},
-	{
-		"drop": "Gema Lunar",
-		"criaturas": [
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "35",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2025.png"
-	},
-	{
-		"drop": "Gorro Mágico (RM +10)",
-		"criaturas": [
-			{
-				"porcentaje": "0.2",
-				"nombre": "Bruja",
-				"imagenUrl": "/images/criaturas/125.png"
-			},
-			{
-				"porcentaje": "0.8",
-				"nombre": "Pyros",
-				"imagenUrl": "/images/criaturas/493.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Medusa",
-				"imagenUrl": "/images/criaturas/367.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Gran Pyros",
-				"imagenUrl": "/images/criaturas/496.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Conjuradora",
-				"imagenUrl": "/images/criaturas/670.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Gárgola Abisal",
-				"imagenUrl": "/images/criaturas/497.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Fantasma",
-				"imagenUrl": "/images/criaturas/451.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "0.9",
-				"nombre": "Hechicero de la Oscuridad",
-				"imagenUrl": "/images/criaturas/564.png"
-			},
-			{
-				"porcentaje": "0.02",
-				"nombre": "Banshee",
-				"imagenUrl": "/images/criaturas/996.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Vampiro",
-				"imagenUrl": "/images/criaturas/434.png"
-			},
-			{
-				"porcentaje": "1.5",
-				"nombre": "Eco del Pasado",
-				"imagenUrl": "/images/criaturas/1144.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Adosador de la Muerte",
-				"imagenUrl": "/images/criaturas/458.png"
-			},
-			{
-				"porcentaje": "35",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2028.png"
-	},
-	{
-		"drop": "Vara Mágica (+30)",
-		"criaturas": [
-			{
-				"porcentaje": "0.01",
-				"nombre": "Señor de las Sombras",
-				"imagenUrl": "/images/criaturas/423.png"
-			},
-			{
-				"porcentaje": "0.9",
-				"nombre": "Orco Brujo",
-				"imagenUrl": "/images/criaturas/571.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego fatuo",
-				"imagenUrl": "/images/criaturas/144.png"
-			},
-			{
-				"porcentaje": "1.5",
-				"nombre": "Mago Protector",
-				"imagenUrl": "/images/criaturas/135.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Bruja",
-				"imagenUrl": "/images/criaturas/125.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Chamán Ártico",
-				"imagenUrl": "/images/criaturas/418.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gólem de Bronce (Minas de Illiandor)",
-				"imagenUrl": "/images/criaturas/678.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Kraken",
-				"imagenUrl": "/images/criaturas/574.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2015.png"
-	},
-	{
-		"drop": "Orbe Ígnea",
-		"criaturas": [
-			{
-				"porcentaje": "1",
-				"nombre": "Núcleo de Magma",
-				"imagenUrl": "/images/criaturas/1171.png"
-			},
-			{
-				"porcentaje": "0.9",
-				"nombre": "Demonio",
-				"imagenUrl": "/images/criaturas/365.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Tatsu",
-				"imagenUrl": "/images/criaturas/1273.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Demonio Abisal",
-				"imagenUrl": "/images/criaturas/363.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Nue",
-				"imagenUrl": "/images/criaturas/1272.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Hechicero de Fuego",
-				"imagenUrl": "/images/criaturas/433.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Alasto",
-				"imagenUrl": "/images/criaturas/499.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Gorath",
-				"imagenUrl": "/images/criaturas/1173.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2022.png"
-	},
-	{
-		"drop": "Orbe de la Ponzoña",
-		"criaturas": [
-			{
-				"porcentaje": "1",
-				"nombre": "Serpiente",
-				"imagenUrl": "/images/criaturas/13.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Cría Arácnida",
-				"imagenUrl": "/images/criaturas/465.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Ent",
-				"imagenUrl": "/images/criaturas/273.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Araña Gigante",
-				"imagenUrl": "/images/criaturas/42.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Tarántula",
-				"imagenUrl": "/images/criaturas/793.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Tarántula Azul",
-				"imagenUrl": "/images/criaturas/1043.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Viuda Negra",
-				"imagenUrl": "/images/criaturas/1072.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Serpiente de Jade",
-				"imagenUrl": "/images/criaturas/1172.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Cobra",
-				"imagenUrl": "/images/criaturas/1069.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Nerkhan",
-				"imagenUrl": "/images/criaturas/565.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Matriarca Drow",
-				"imagenUrl": "/images/criaturas/553.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2024.png"
-	},
-	{
-		"drop": "Cofre Bélico (Armas)",
-		"criaturas": [
-			{
-				"porcentaje": "2.5",
-				"nombre": "Matriarca Drow",
-				"imagenUrl": "/images/criaturas/553.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Hechicero de Tierra",
-				"imagenUrl": "/images/criaturas/444.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Aranhae",
-				"imagenUrl": "/images/criaturas/562.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Hielo",
-				"imagenUrl": "/images/criaturas/377.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3554.png"
-	},
-	{
-		"drop": "Brazalete del Ogro (+30)",
-		"criaturas": [
-			{
-				"porcentaje": "0.03",
-				"nombre": "Ogro Guerrero",
-				"imagenUrl": "/images/criaturas/237.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Crako",
-				"imagenUrl": "/images/criaturas/219.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Asolador de la Oscuridad",
-				"imagenUrl": "/images/criaturas/995.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Cobra",
-				"imagenUrl": "/images/criaturas/1069.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Hombre Lobo",
-				"imagenUrl": "/images/criaturas/450.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gólem de Bronce (Minas de Illiandor)",
-				"imagenUrl": "/images/criaturas/678.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gladiador",
-				"imagenUrl": "/images/criaturas/364.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Ogro Líder",
-				"imagenUrl": "/images/criaturas/429.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Kraken",
-				"imagenUrl": "/images/criaturas/574.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Adosador de la Muerte",
-				"imagenUrl": "/images/criaturas/458.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Gorath",
-				"imagenUrl": "/images/criaturas/1173.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2007.png"
-	},
-	{
-		"drop": "Amuleto del Silencio",
-		"criaturas": [
-			{
-				"porcentaje": "1",
-				"nombre": "Señor de las Sombras",
-				"imagenUrl": "/images/criaturas/423.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Fuego Elemental Marron",
-				"imagenUrl": "/images/criaturas/469.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Fuego Elemental Azul",
-				"imagenUrl": "/images/criaturas/470.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Fuego fatuo",
-				"imagenUrl": "/images/criaturas/144.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Fuego Elemental Verde",
-				"imagenUrl": "/images/criaturas/471.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Mago Protector",
-				"imagenUrl": "/images/criaturas/135.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Aparición",
-				"imagenUrl": "/images/criaturas/245.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Bruja",
-				"imagenUrl": "/images/criaturas/125.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Chamán Ártico",
-				"imagenUrl": "/images/criaturas/418.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Espectro",
-				"imagenUrl": "/images/criaturas/446.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Vespertilago",
-				"imagenUrl": "/images/criaturas/1149.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2020.png"
-	},
-	{
-		"drop": "Anillo de las Sombras",
-		"criaturas": [
-			{
-				"porcentaje": "3",
-				"nombre": "Señor de las Sombras",
-				"imagenUrl": "/images/criaturas/423.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Fuego Elemental Gris",
-				"imagenUrl": "/images/criaturas/468.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Aparición",
-				"imagenUrl": "/images/criaturas/245.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2021.png"
-	},
-	{
-		"drop": "Colmillo de Lobo",
-		"criaturas": [
-			{
-				"porcentaje": "15",
-				"nombre": "Lobo",
-				"imagenUrl": "/images/criaturas/10.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Lobo Invernal",
-				"imagenUrl": "/images/criaturas/284.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Hombre Lobo",
-				"imagenUrl": "/images/criaturas/450.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Hombre Lobo",
-				"imagenUrl": "/images/criaturas/450.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1703.png"
-	},
-	{
-		"drop": "Anillo del Guerrero",
-		"criaturas": [
-			{
-				"porcentaje": "8",
-				"nombre": "Lacayo del Mal",
-				"imagenUrl": "/images/criaturas/460.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2011.png"
-	},
-	{
-		"drop": "Escudo de Reflexión (RM +15)",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Archne",
-				"imagenUrl": "/images/criaturas/376.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Castigador",
-				"imagenUrl": "/images/criaturas/447.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Gólem de Bronce",
-				"imagenUrl": "/images/criaturas/373.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Gólem de Piedra",
-				"imagenUrl": "/images/criaturas/371.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Gólem de Plata",
-				"imagenUrl": "/images/criaturas/375.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Profeta Arcano",
-				"imagenUrl": "/images/criaturas/474.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Gólem de Oro",
-				"imagenUrl": "/images/criaturas/1190.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Hielo",
-				"imagenUrl": "/images/criaturas/377.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2119.png"
-	},
-	{
-		"drop": "Pendiente del Asesino",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Abigor",
-				"imagenUrl": "/images/criaturas/494.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2016.png"
-	},
-	{
-		"drop": "Escama de Koi",
-		"criaturas": [
-			{
-				"porcentaje": "8",
-				"nombre": "Ryuji",
-				"imagenUrl": "/images/criaturas/1276.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Hayato",
-				"imagenUrl": "/images/criaturas/1275.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3699.png"
-	},
-	{
-		"drop": "Pelaje de Oso",
-		"criaturas": [
-			{
-				"porcentaje": "20",
-				"nombre": "Oso Pardo",
-				"imagenUrl": "/images/criaturas/73.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1707.png"
-	},
-	{
-		"drop": "Caparazón de Tortuga",
-		"criaturas": [
-			{
-				"porcentaje": "12",
-				"nombre": "Tortuga Gigante",
-				"imagenUrl": "/images/criaturas/74.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1704.png"
-	},
-	{
-		"drop": "Oro",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Gólem de Oro",
-				"imagenUrl": "/images/criaturas/1190.png"
-			}
-		],
-		"imagenUrl": "/images/drops/662.png"
-	},
-	{
-		"drop": "Leña",
-		"criaturas": [
-			{
-				"porcentaje": "10",
-				"nombre": "Ent",
-				"imagenUrl": "/images/criaturas/273.png"
-			}
-		],
-		"imagenUrl": "/images/drops/652.png"
-	},
-	{
-		"drop": "Túnica de Absorción Mágica (RM +8)",
-		"criaturas": [
-			{
-				"porcentaje": "0.05",
-				"nombre": "Gárgola Abisal",
-				"imagenUrl": "/images/criaturas/497.png"
-			},
-			{
-				"porcentaje": "0.6",
-				"nombre": "Tatsu",
-				"imagenUrl": "/images/criaturas/1273.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Alma Cautiva",
-				"imagenUrl": "/images/criaturas/459.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "0.4",
-				"nombre": "Archne",
-				"imagenUrl": "/images/criaturas/376.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Vampiresa",
-				"imagenUrl": "/images/criaturas/438.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Adosador de la Muerte",
-				"imagenUrl": "/images/criaturas/458.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2202.png"
-	},
-	{
-		"drop": "Báculo de Hechicero (DM +10)",
-		"criaturas": [
-			{
-				"porcentaje": "0.03",
-				"nombre": "Crako",
-				"imagenUrl": "/images/criaturas/219.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Medusa",
-				"imagenUrl": "/images/criaturas/367.png"
-			},
-			{
-				"porcentaje": "0.4",
-				"nombre": "Alma Cautiva",
-				"imagenUrl": "/images/criaturas/459.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Vampiresa",
-				"imagenUrl": "/images/criaturas/438.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Vampiro",
-				"imagenUrl": "/images/criaturas/434.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2611.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 30 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Fragmento de Pendiente del Sacrificio",
-		"criaturas": [
-			{
-				"porcentaje": "0.04",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "1.5",
-				"nombre": "Kraken",
-				"imagenUrl": "/images/criaturas/574.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Egipan",
-				"imagenUrl": "/images/criaturas/500.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Hechicero de Aire",
-				"imagenUrl": "/images/criaturas/443.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Matriarca Drow",
-				"imagenUrl": "/images/criaturas/553.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Hechicero de Agua",
-				"imagenUrl": "/images/criaturas/442.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Hechicero de Fuego",
-				"imagenUrl": "/images/criaturas/433.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Hechicero de Tierra",
-				"imagenUrl": "/images/criaturas/444.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Plata",
-				"imagenUrl": "/images/criaturas/375.png"
-			},
-			{
-				"porcentaje": "2.25",
-				"nombre": "Alasto",
-				"imagenUrl": "/images/criaturas/499.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Profeta Arcano",
-				"imagenUrl": "/images/criaturas/474.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Aranhae",
-				"imagenUrl": "/images/criaturas/562.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Guardián",
-				"imagenUrl": "/images/criaturas/477.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem de Oro",
-				"imagenUrl": "/images/criaturas/1190.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gorgona",
-				"imagenUrl": "/images/criaturas/642.png"
-			},
-			{
-				"porcentaje": "0.7",
-				"nombre": "Gorath",
-				"imagenUrl": "/images/criaturas/1173.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Gólem de Hielo",
-				"imagenUrl": "/images/criaturas/377.png"
-			},
-			{
-				"porcentaje": "75",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			},
-			{
-				"porcentaje": "75",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "45",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "35",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "60",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "60",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "45",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "55",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "70",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "30",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "35",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "40",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "50",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "60",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			},
-			{
-				"porcentaje": "75",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2019.png"
-	},
-	{
-		"drop": "Escama de Dragon Verde",
-		"criaturas": [
-			{
-				"porcentaje": "5",
-				"nombre": "Cría de Dragón Verde",
-				"imagenUrl": "/images/criaturas/699.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Gran Dragón Verde",
-				"imagenUrl": "/images/criaturas/360.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3703.png"
-	},
-	{
-		"drop": "Ojo de Medusa",
-		"criaturas": [
-			{
-				"porcentaje": "0.1",
-				"nombre": "Medusa",
-				"imagenUrl": "/images/criaturas/367.png"
-			},
-			{
-				"porcentaje": "0.30",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "75",
-				"nombre": "Gorgona",
-				"imagenUrl": "/images/criaturas/642.png"
-			},
-			{
-				"porcentaje": "45",
-				"nombre": "Gorgona",
-				"imagenUrl": "/images/criaturas/642.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3812.png"
-	},
-	{
-		"drop": "Piel de Lobo Invernal",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Lobo Invernal",
-				"imagenUrl": "/images/criaturas/284.png"
-			}
-		],
-		"imagenUrl": "/images/drops/657.png"
-	},
-	{
-		"drop": "Báculo Oscuro DM+5 0.5 %",
-		"criaturas": [
-			{
-				"porcentaje": "",
-				"nombre": "Banshee",
-				"imagenUrl": "/images/criaturas/996.png"
-			},
-			{
-				"porcentaje": "",
-				"nombre": "Demonio Abisal",
-				"imagenUrl": "/images/criaturas/363.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2601.png"
-	},
-	{
-		"drop": "Pergamino Rúnico",
-		"criaturas": [
-			{
-				"porcentaje": "20",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3819.png"
-	},
-	{
-		"drop": "Anillo Mágico de Defensa",
-		"criaturas": [
-			{
-				"porcentaje": "0.8",
-				"nombre": "Behemot",
-				"imagenUrl": "/images/criaturas/498.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2008.png"
-	},
-	{
-		"drop": "Cofre Celestial (Armaduras y Tunicas)",
-		"criaturas": [
-			{
-				"porcentaje": "0.5",
-				"nombre": "Hechicero de Fuego",
-				"imagenUrl": "/images/criaturas/433.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3578.png"
-	},
-	{
-		"drop": "Escama de Dragon Negro",
-		"criaturas": [
-			{
-				"porcentaje": "8",
-				"nombre": "Cría de Dragón Negro",
-				"imagenUrl": "/images/criaturas/696.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3705.png"
-	},
-	{
-		"drop": "Escama de Dragon Rojo",
-		"criaturas": [
-			{
-				"porcentaje": "10",
-				"nombre": "Cría de Dragón Rojo",
-				"imagenUrl": "/images/criaturas/698.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3706.png"
-	},
-	{
-		"drop": "Sortija de la Verdad",
-		"criaturas": [
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Amarillo",
-				"imagenUrl": "/images/criaturas/467.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Fucsia",
-				"imagenUrl": "/images/criaturas/472.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Marron",
-				"imagenUrl": "/images/criaturas/469.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Azul",
-				"imagenUrl": "/images/criaturas/470.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Gris",
-				"imagenUrl": "/images/criaturas/468.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Verde",
-				"imagenUrl": "/images/criaturas/471.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Mago Protector",
-				"imagenUrl": "/images/criaturas/135.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Fuego Elemental Verde Oscuro",
-				"imagenUrl": "/images/criaturas/473.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2017.png"
-	},
-	{
-		"drop": "Anillo del Guardián",
-		"criaturas": [
-			{
-				"porcentaje": "0.8",
-				"nombre": "Behemot",
-				"imagenUrl": "/images/criaturas/498.png"
-			},
-			{
-				"porcentaje": "2",
-				"nombre": "Adosador de la Muerte",
-				"imagenUrl": "/images/criaturas/458.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2014.png"
-	},
-	{
-		"drop": "Báculo del Gran Hechicero (DM+15)",
-		"criaturas": [
-			{
-				"porcentaje": "0.4",
-				"nombre": "Espectro",
-				"imagenUrl": "/images/criaturas/446.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "0.02",
-				"nombre": "Banshee",
-				"imagenUrl": "/images/criaturas/996.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Castigador",
-				"imagenUrl": "/images/criaturas/447.png"
-			},
-			{
-				"porcentaje": "0.05",
-				"nombre": "Eco del Pasado",
-				"imagenUrl": "/images/criaturas/1144.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Abyssaria",
-				"imagenUrl": "/images/criaturas/1153.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "17",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2026.png"
-	},
-	{
-		"drop": "Flecha",
-		"criaturas": [
-			{
-				"porcentaje": "30",
-				"nombre": "Arquero Pirata",
-				"imagenUrl": "/images/criaturas/110.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1215.png"
-	},
-	{
-		"drop": "Corteza Onodrim",
-		"criaturas": [
-			{
-				"porcentaje": "15",
-				"nombre": "Ent",
-				"imagenUrl": "/images/criaturas/273.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1705.png"
-	},
-	{
-		"drop": "Plata",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Gólem de Plata",
-				"imagenUrl": "/images/criaturas/375.png"
-			}
-		],
-		"imagenUrl": "/images/drops/661.png"
-	},
-	{
-		"drop": "Orbe de Inhibición",
-		"criaturas": [
-			{
-				"porcentaje": "0.4",
-				"nombre": "Fuego fatuo",
-				"imagenUrl": "/images/criaturas/144.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Bruja",
-				"imagenUrl": "/images/criaturas/125.png"
-			},
-			{
-				"porcentaje": "0.8",
-				"nombre": "Gran Pyros",
-				"imagenUrl": "/images/criaturas/496.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Conjuradora",
-				"imagenUrl": "/images/criaturas/670.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Chamán Ártico",
-				"imagenUrl": "/images/criaturas/418.png"
-			},
-			{
-				"porcentaje": "1.5",
-				"nombre": "Cobra",
-				"imagenUrl": "/images/criaturas/1069.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Hechicero de la Oscuridad",
-				"imagenUrl": "/images/criaturas/564.png"
-			},
-			{
-				"porcentaje": "0.5",
-				"nombre": "Castigador",
-				"imagenUrl": "/images/criaturas/447.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Vespertilago",
-				"imagenUrl": "/images/criaturas/1149.png"
-			},
-			{
-				"porcentaje": "0.015",
-				"nombre": "Hechicero de Aire",
-				"imagenUrl": "/images/criaturas/443.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Matriarca Drow",
-				"imagenUrl": "/images/criaturas/553.png"
-			},
-			{
-				"porcentaje": "0.015",
-				"nombre": "Hechicero de Tierra",
-				"imagenUrl": "/images/criaturas/444.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2607.png"
-	},
-	{
-		"drop": "Garra de Tigre",
-		"criaturas": [
-			{
-				"porcentaje": "15",
-				"nombre": "Tigre",
-				"imagenUrl": "/images/criaturas/147.png"
-			}
-		],
-		"imagenUrl": "/images/drops/1706.png"
-	},
-	{
-		"drop": "Pollo",
-		"criaturas": [
-			{
-				"porcentaje": "100",
-				"nombre": "Gallo Salvaje",
-				"imagenUrl": "/images/criaturas/5.png"
-			},
-			{
-				"porcentaje": "100",
-				"nombre": "Gallina Salvaje",
-				"imagenUrl": "/images/criaturas/278.png"
-			}
-		],
-		"imagenUrl": "/images/drops/506.png"
-	},
-	{
-		"drop": "Gema Naranja",
-		"criaturas": [
-			{
-				"porcentaje": "1",
-				"nombre": "Gólem Infernal",
-				"imagenUrl": "/images/criaturas/374.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2556.png"
-	},
-	{
-		"drop": "Collar de Rykan",
-		"criaturas": [
-			{
-				"porcentaje": "0.01",
-				"nombre": "Hechicero de Agua",
-				"imagenUrl": "/images/criaturas/442.png"
-			},
-			{
-				"porcentaje": "0.01",
-				"nombre": "Hechicero de Tierra",
-				"imagenUrl": "/images/criaturas/444.png"
-			},
-			{
-				"porcentaje": "0.03",
-				"nombre": "Guardián",
-				"imagenUrl": "/images/criaturas/477.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "3",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Eishnër",
-				"imagenUrl": "/images/criaturas/1211.png"
-			},
-			{
-				"porcentaje": "4",
-				"nombre": "Archimago Abisal",
-				"imagenUrl": "/images/criaturas/644.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/4.png"
-	},
-	{
-		"drop": "Petalo de Sakura",
-		"criaturas": [
-			{
-				"porcentaje": "2",
-				"nombre": "Ryuji",
-				"imagenUrl": "/images/criaturas/1276.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Hayato",
-				"imagenUrl": "/images/criaturas/1275.png"
-			},
-			{
-				"porcentaje": "7",
-				"nombre": "Kazan",
-				"imagenUrl": "/images/criaturas/1274.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Tatsu",
-				"imagenUrl": "/images/criaturas/1273.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Nue",
-				"imagenUrl": "/images/criaturas/1272.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3701.png"
-	},
-	{
-		"drop": "Roca Ignea",
-		"criaturas": [
-			{
-				"porcentaje": "15",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			}
-		],
-		"imagenUrl": "/images/drops/3816.png"
-	},
-	{
-		"drop": "Gorro Mágico (RM +20)",
-		"criaturas": [
-			{
-				"porcentaje": "0.4",
-				"nombre": "Espectro",
-				"imagenUrl": "/images/criaturas/446.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Medusa Matriarch",
-				"imagenUrl": "/images/criaturas/368.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Castigador",
-				"imagenUrl": "/images/criaturas/447.png"
-			},
-			{
-				"porcentaje": "0.15",
-				"nombre": "Eco del Pasado",
-				"imagenUrl": "/images/criaturas/1144.png"
-			},
-			{
-				"porcentaje": "0.2",
-				"nombre": "Egipan",
-				"imagenUrl": "/images/criaturas/500.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Hechicero de Aire",
-				"imagenUrl": "/images/criaturas/443.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Hechicero de Agua",
-				"imagenUrl": "/images/criaturas/442.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Hechicero de Fuego",
-				"imagenUrl": "/images/criaturas/433.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Hechicero de Tierra",
-				"imagenUrl": "/images/criaturas/444.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Dragón Azul",
-				"imagenUrl": "/images/criaturas/359.png"
-			},
-			{
-				"porcentaje": "8",
-				"nombre": "Gran Dragón Rojo",
-				"imagenUrl": "/images/criaturas/358.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Djinn",
-				"imagenUrl": "/images/criaturas/998.png"
-			},
-			{
-				"porcentaje": "12",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "20",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2029.png"
-	},
-	{
-		"drop": "Túnica de Absorción Mágica (RM +15)",
-		"criaturas": [
-			{
-				"porcentaje": "0.25",
-				"nombre": "Castigador",
-				"imagenUrl": "/images/criaturas/447.png"
-			},
-			{
-				"porcentaje": "0.15",
-				"nombre": "Vampiro",
-				"imagenUrl": "/images/criaturas/434.png"
-			},
-			{
-				"porcentaje": "0.1",
-				"nombre": "Eco del Pasado",
-				"imagenUrl": "/images/criaturas/1144.png"
-			},
-			{
-				"porcentaje": "0.3",
-				"nombre": "Nue",
-				"imagenUrl": "/images/criaturas/1272.png"
-			},
-			{
-				"porcentaje": "0.15",
-				"nombre": "Alasto",
-				"imagenUrl": "/images/criaturas/499.png"
-			},
-			{
-				"porcentaje": "1",
-				"nombre": "Profeta Arcano",
-				"imagenUrl": "/images/criaturas/474.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Vampiro Transformado",
-				"imagenUrl": "/images/criaturas/463.png"
-			},
-			{
-				"porcentaje": "5",
-				"nombre": "Gran Hechicero Garveloth",
-				"imagenUrl": "/images/criaturas/480.png"
-			},
-			{
-				"porcentaje": "10",
-				"nombre": "Gran Dragón Negro",
-				"imagenUrl": "/images/criaturas/362.png"
-			},
-			{
-				"porcentaje": "15",
-				"nombre": "Dragón Legendario",
-				"imagenUrl": "/images/criaturas/361.png"
-			},
-			{
-				"porcentaje": "25",
-				"nombre": "Rey Dragón",
-				"imagenUrl": "/images/criaturas/432.png"
-			}
-		],
-		"imagenUrl": "/images/drops/2203.png"
-	}
+    {
+        "drop": "Gema Gris",
+        "criaturas": [
+            {
+                "porcentaje": "2.1",
+                "nombre": "Gólem de Plata",
+                "imagenUrl": "/images/criaturas/375.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2557.png"
+    },
+    {
+        "drop": "Cofre Aegis (Escudos)",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Hechicero de Aire",
+                "imagenUrl": "/images/criaturas/443.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Hielo",
+                "imagenUrl": "/images/criaturas/377.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3579.png"
+    },
+    {
+        "drop": "Roca Escarlata",
+        "criaturas": [
+            {
+                "porcentaje": "4",
+                "nombre": "Gólem de Bronce",
+                "imagenUrl": "/images/criaturas/373.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gólem de Piedra",
+                "imagenUrl": "/images/criaturas/371.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gólem de Plata",
+                "imagenUrl": "/images/criaturas/375.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gólem de Oro",
+                "imagenUrl": "/images/criaturas/1190.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1709.png"
+    },
+    {
+        "drop": "Colgante del Experto",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Demonio",
+                "imagenUrl": "/images/criaturas/365.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2000.png"
+    },
+    {
+        "drop": "Escudo de Reflexión (RM+30)",
+        "criaturas": [
+            {
+                "porcentaje": "0.1",
+                "nombre": "Yeti",
+                "imagenUrl": "/images/criaturas/370.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Aranhae",
+                "imagenUrl": "/images/criaturas/562.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Guardián",
+                "imagenUrl": "/images/criaturas/477.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "2.5",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "7",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "6",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2027.png"
+    },
+    {
+        "drop": "Cofre Protector (Cascos y Gorros)",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Hechicero de Agua",
+                "imagenUrl": "/images/criaturas/442.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3580.png"
+    },
+    {
+        "drop": "Pluma de Águila",
+        "criaturas": [
+            {
+                "porcentaje": "15",
+                "nombre": "Águila",
+                "imagenUrl": "/images/criaturas/59.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1702.png"
+    },
+    {
+        "drop": "Escamas de Dragón",
+        "criaturas": [
+            {
+                "porcentaje": "10",
+                "nombre": "Cría de Dragón Legendario",
+                "imagenUrl": "/images/criaturas/695.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Cría de Rey Dragón",
+                "imagenUrl": "/images/criaturas/697.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1708.png"
+    },
+    {
+        "drop": "Arco Simple",
+        "criaturas": [
+            {
+                "porcentaje": "30",
+                "nombre": "Arquero Pirata",
+                "imagenUrl": "/images/criaturas/110.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1214.png"
+    },
+    {
+        "drop": "Piel de Oso Pardo",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Oso Pardo",
+                "imagenUrl": "/images/criaturas/73.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/656.png"
+    },
+    {
+        "drop": "Raíz",
+        "criaturas": [
+            {
+                "porcentaje": "7",
+                "nombre": "Ent",
+                "imagenUrl": "/images/criaturas/273.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/650.png"
+    },
+    {
+        "drop": "Gema Dorada",
+        "criaturas": [
+            {
+                "porcentaje": "2",
+                "nombre": "Gólem de Oro",
+                "imagenUrl": "/images/criaturas/1190.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2555.png"
+    },
+    {
+        "drop": "Cristal del Éter",
+        "criaturas": [
+            {
+                "porcentaje": "0.3",
+                "nombre": "Profeta Arcano",
+                "imagenUrl": "/images/criaturas/474.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Guardián",
+                "imagenUrl": "/images/criaturas/477.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3823.png"
+    },
+    {
+        "drop": "Hueso Abisal",
+        "criaturas": [
+            {
+                "porcentaje": "0.01",
+                "nombre": "Demonio",
+                "imagenUrl": "/images/criaturas/365.png"
+            },
+            {
+                "porcentaje": "0.25",
+                "nombre": "Demonio Abisal",
+                "imagenUrl": "/images/criaturas/363.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3813.png"
+    },
+    {
+        "drop": "Botas de Celeridad",
+        "criaturas": [
+            {
+                "porcentaje": "2",
+                "nombre": "Pyros",
+                "imagenUrl": "/images/criaturas/493.png"
+            },
+            {
+                "porcentaje": "2.5",
+                "nombre": "Gran Pyros",
+                "imagenUrl": "/images/criaturas/496.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2003.png"
+    },
+    {
+        "drop": "Hierro",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Gólem de Bronce",
+                "imagenUrl": "/images/criaturas/373.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/660.png"
+    },
+    {
+        "drop": "Orbe Sangrienta",
+        "criaturas": [
+            {
+                "porcentaje": "2.5",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3585.png"
+    },
+    {
+        "drop": "Hilo de Bordar",
+        "criaturas": [
+            {
+                "porcentaje": "10",
+                "nombre": "Cría Arácnida",
+                "imagenUrl": "/images/criaturas/465.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Cría Arácnida",
+                "imagenUrl": "/images/criaturas/465.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Araña Gigante",
+                "imagenUrl": "/images/criaturas/42.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Tarántula",
+                "imagenUrl": "/images/criaturas/793.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Tarántula Azul",
+                "imagenUrl": "/images/criaturas/1043.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Viuda Negra",
+                "imagenUrl": "/images/criaturas/1072.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Nerkhan",
+                "imagenUrl": "/images/criaturas/565.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Matriarca Drow",
+                "imagenUrl": "/images/criaturas/553.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2596.png"
+    },
+    {
+        "drop": "Orbe Acuática",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Chamán Ártico",
+                "imagenUrl": "/images/criaturas/418.png"
+            },
+            {
+                "porcentaje": "35",
+                "nombre": "Kraken",
+                "imagenUrl": "/images/criaturas/574.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Hechicero de Agua",
+                "imagenUrl": "/images/criaturas/442.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Yeti",
+                "imagenUrl": "/images/criaturas/370.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Hielo",
+                "imagenUrl": "/images/criaturas/377.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2023.png"
+    },
+    {
+        "drop": "Cráneo Abisal",
+        "criaturas": [
+            {
+                "porcentaje": "10",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3820.png"
+    },
+    {
+        "drop": "Cola de Gorgona",
+        "criaturas": [
+            {
+                "porcentaje": "25",
+                "nombre": "Gorgona",
+                "imagenUrl": "/images/criaturas/642.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3737.png"
+    },
+    {
+        "drop": "Piel de Lobo",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Lobo",
+                "imagenUrl": "/images/criaturas/10.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/655.png"
+    },
+    {
+        "drop": "Escama de Dragon Azul",
+        "criaturas": [
+            {
+                "porcentaje": "7",
+                "nombre": "Cría de Dragón Azul",
+                "imagenUrl": "/images/criaturas/693.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3702.png"
+    },
+    {
+        "drop": "Escudo de Tortuga",
+        "criaturas": [
+            {
+                "porcentaje": "20",
+                "nombre": "Tortuga Gigante",
+                "imagenUrl": "/images/criaturas/74.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1216.png"
+    },
+    {
+        "drop": "Gema Lunar",
+        "criaturas": [
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "35",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2025.png"
+    },
+    {
+        "drop": "Gorro Mágico (RM +10)",
+        "criaturas": [
+            {
+                "porcentaje": "0.2",
+                "nombre": "Bruja",
+                "imagenUrl": "/images/criaturas/125.png"
+            },
+            {
+                "porcentaje": "0.8",
+                "nombre": "Pyros",
+                "imagenUrl": "/images/criaturas/493.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Medusa",
+                "imagenUrl": "/images/criaturas/367.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Gran Pyros",
+                "imagenUrl": "/images/criaturas/496.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Conjuradora",
+                "imagenUrl": "/images/criaturas/670.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Gárgola Abisal",
+                "imagenUrl": "/images/criaturas/497.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Fantasma",
+                "imagenUrl": "/images/criaturas/451.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "0.9",
+                "nombre": "Hechicero de la Oscuridad",
+                "imagenUrl": "/images/criaturas/564.png"
+            },
+            {
+                "porcentaje": "0.02",
+                "nombre": "Banshee",
+                "imagenUrl": "/images/criaturas/996.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Vampiro",
+                "imagenUrl": "/images/criaturas/434.png"
+            },
+            {
+                "porcentaje": "1.5",
+                "nombre": "Eco del Pasado",
+                "imagenUrl": "/images/criaturas/1144.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Adosador de la Muerte",
+                "imagenUrl": "/images/criaturas/458.png"
+            },
+            {
+                "porcentaje": "35",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2028.png"
+    },
+    {
+        "drop": "Vara Mágica (+30)",
+        "criaturas": [
+            {
+                "porcentaje": "0.01",
+                "nombre": "Señor de las Sombras",
+                "imagenUrl": "/images/criaturas/423.png"
+            },
+            {
+                "porcentaje": "0.9",
+                "nombre": "Orco Brujo",
+                "imagenUrl": "/images/criaturas/571.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego fatuo",
+                "imagenUrl": "/images/criaturas/144.png"
+            },
+            {
+                "porcentaje": "1.5",
+                "nombre": "Mago Protector",
+                "imagenUrl": "/images/criaturas/135.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Bruja",
+                "imagenUrl": "/images/criaturas/125.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Chamán Ártico",
+                "imagenUrl": "/images/criaturas/418.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gólem de Bronce (Minas de Illiandor)",
+                "imagenUrl": "/images/criaturas/678.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Kraken",
+                "imagenUrl": "/images/criaturas/574.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2015.png"
+    },
+    {
+        "drop": "Orbe Ígnea",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Núcleo de Magma",
+                "imagenUrl": "/images/criaturas/1171.png"
+            },
+            {
+                "porcentaje": "0.9",
+                "nombre": "Demonio",
+                "imagenUrl": "/images/criaturas/365.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Tatsu",
+                "imagenUrl": "/images/criaturas/1273.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Demonio Abisal",
+                "imagenUrl": "/images/criaturas/363.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Nue",
+                "imagenUrl": "/images/criaturas/1272.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Hechicero de Fuego",
+                "imagenUrl": "/images/criaturas/433.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Alasto",
+                "imagenUrl": "/images/criaturas/499.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Gorath",
+                "imagenUrl": "/images/criaturas/1173.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2022.png"
+    },
+    {
+        "drop": "Orbe de la Ponzoña",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Serpiente",
+                "imagenUrl": "/images/criaturas/13.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Cría Arácnida",
+                "imagenUrl": "/images/criaturas/465.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Ent",
+                "imagenUrl": "/images/criaturas/273.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Araña Gigante",
+                "imagenUrl": "/images/criaturas/42.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Tarántula",
+                "imagenUrl": "/images/criaturas/793.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Tarántula Azul",
+                "imagenUrl": "/images/criaturas/1043.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Viuda Negra",
+                "imagenUrl": "/images/criaturas/1072.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Serpiente de Jade",
+                "imagenUrl": "/images/criaturas/1172.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Cobra",
+                "imagenUrl": "/images/criaturas/1069.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Nerkhan",
+                "imagenUrl": "/images/criaturas/565.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Matriarca Drow",
+                "imagenUrl": "/images/criaturas/553.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2024.png"
+    },
+    {
+        "drop": "Cofre Bélico (Armas)",
+        "criaturas": [
+            {
+                "porcentaje": "2.5",
+                "nombre": "Matriarca Drow",
+                "imagenUrl": "/images/criaturas/553.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Hechicero de Tierra",
+                "imagenUrl": "/images/criaturas/444.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Aranhae",
+                "imagenUrl": "/images/criaturas/562.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Hielo",
+                "imagenUrl": "/images/criaturas/377.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3554.png"
+    },
+    {
+        "drop": "Brazalete del Ogro (+30)",
+        "criaturas": [
+            {
+                "porcentaje": "0.03",
+                "nombre": "Ogro Guerrero",
+                "imagenUrl": "/images/criaturas/237.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Crako",
+                "imagenUrl": "/images/criaturas/219.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Asolador de la Oscuridad",
+                "imagenUrl": "/images/criaturas/995.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Cobra",
+                "imagenUrl": "/images/criaturas/1069.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Hombre Lobo",
+                "imagenUrl": "/images/criaturas/450.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gólem de Bronce (Minas de Illiandor)",
+                "imagenUrl": "/images/criaturas/678.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gladiador",
+                "imagenUrl": "/images/criaturas/364.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Ogro Líder",
+                "imagenUrl": "/images/criaturas/429.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Kraken",
+                "imagenUrl": "/images/criaturas/574.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Adosador de la Muerte",
+                "imagenUrl": "/images/criaturas/458.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Gorath",
+                "imagenUrl": "/images/criaturas/1173.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2007.png"
+    },
+    {
+        "drop": "Amuleto del Silencio",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Señor de las Sombras",
+                "imagenUrl": "/images/criaturas/423.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Fuego Elemental Marron",
+                "imagenUrl": "/images/criaturas/469.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Fuego Elemental Azul",
+                "imagenUrl": "/images/criaturas/470.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Fuego fatuo",
+                "imagenUrl": "/images/criaturas/144.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Fuego Elemental Verde",
+                "imagenUrl": "/images/criaturas/471.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Mago Protector",
+                "imagenUrl": "/images/criaturas/135.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Aparición",
+                "imagenUrl": "/images/criaturas/245.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Bruja",
+                "imagenUrl": "/images/criaturas/125.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Chamán Ártico",
+                "imagenUrl": "/images/criaturas/418.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Espectro",
+                "imagenUrl": "/images/criaturas/446.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Vespertilago",
+                "imagenUrl": "/images/criaturas/1149.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2020.png"
+    },
+    {
+        "drop": "Anillo de las Sombras",
+        "criaturas": [
+            {
+                "porcentaje": "3",
+                "nombre": "Señor de las Sombras",
+                "imagenUrl": "/images/criaturas/423.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Fuego Elemental Gris",
+                "imagenUrl": "/images/criaturas/468.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Aparición",
+                "imagenUrl": "/images/criaturas/245.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2021.png"
+    },
+    {
+        "drop": "Colmillo de Lobo",
+        "criaturas": [
+            {
+                "porcentaje": "15",
+                "nombre": "Lobo",
+                "imagenUrl": "/images/criaturas/10.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Lobo Invernal",
+                "imagenUrl": "/images/criaturas/284.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Hombre Lobo",
+                "imagenUrl": "/images/criaturas/450.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Hombre Lobo",
+                "imagenUrl": "/images/criaturas/450.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1703.png"
+    },
+    {
+        "drop": "Anillo del Guerrero",
+        "criaturas": [
+            {
+                "porcentaje": "8",
+                "nombre": "Lacayo del Mal",
+                "imagenUrl": "/images/criaturas/460.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2011.png"
+    },
+    {
+        "drop": "Escudo de Reflexión (RM +15)",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Archne",
+                "imagenUrl": "/images/criaturas/376.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Castigador",
+                "imagenUrl": "/images/criaturas/447.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Gólem de Bronce",
+                "imagenUrl": "/images/criaturas/373.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Gólem de Piedra",
+                "imagenUrl": "/images/criaturas/371.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Gólem de Plata",
+                "imagenUrl": "/images/criaturas/375.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Profeta Arcano",
+                "imagenUrl": "/images/criaturas/474.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Gólem de Oro",
+                "imagenUrl": "/images/criaturas/1190.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Hielo",
+                "imagenUrl": "/images/criaturas/377.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2119.png"
+    },
+    {
+        "drop": "Pendiente del Asesino",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Abigor",
+                "imagenUrl": "/images/criaturas/494.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2016.png"
+    },
+    {
+        "drop": "Escama de Koi",
+        "criaturas": [
+            {
+                "porcentaje": "8",
+                "nombre": "Ryuji",
+                "imagenUrl": "/images/criaturas/1276.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Hayato",
+                "imagenUrl": "/images/criaturas/1275.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3699.png"
+    },
+    {
+        "drop": "Báculo Oscuro DM+5",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Medusa",
+                "imagenUrl": "/images/criaturas/367.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Leviatán",
+                "imagenUrl": "/images/criaturas/99.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Gárgola Abisal",
+                "imagenUrl": "/images/criaturas/497.png"
+            },
+            {
+                "porcentaje": "1.8",
+                "nombre": "Hechicero de la Oscuridad",
+                "imagenUrl": "/images/criaturas/564.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Banshee",
+                "imagenUrl": "/images/criaturas/996.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Demonio Abisal",
+                "imagenUrl": "/images/criaturas/363.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Egipan",
+                "imagenUrl": "/images/criaturas/500.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Alasto",
+                "imagenUrl": "/images/criaturas/499.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2601.png"
+    },
+    {
+        "drop": "Pelaje de Oso",
+        "criaturas": [
+            {
+                "porcentaje": "20",
+                "nombre": "Oso Pardo",
+                "imagenUrl": "/images/criaturas/73.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1707.png"
+    },
+    {
+        "drop": "Caparazón de Tortuga",
+        "criaturas": [
+            {
+                "porcentaje": "12",
+                "nombre": "Tortuga Gigante",
+                "imagenUrl": "/images/criaturas/74.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1704.png"
+    },
+    {
+        "drop": "Oro",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Gólem de Oro",
+                "imagenUrl": "/images/criaturas/1190.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/662.png"
+    },
+    {
+        "drop": "Leña",
+        "criaturas": [
+            {
+                "porcentaje": "10",
+                "nombre": "Ent",
+                "imagenUrl": "/images/criaturas/273.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/652.png"
+    },
+    {
+        "drop": "Túnica de Absorción Mágica (RM +8)",
+        "criaturas": [
+            {
+                "porcentaje": "0.05",
+                "nombre": "Gárgola Abisal",
+                "imagenUrl": "/images/criaturas/497.png"
+            },
+            {
+                "porcentaje": "0.6",
+                "nombre": "Tatsu",
+                "imagenUrl": "/images/criaturas/1273.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Alma Cautiva",
+                "imagenUrl": "/images/criaturas/459.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "0.4",
+                "nombre": "Archne",
+                "imagenUrl": "/images/criaturas/376.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Vampiresa",
+                "imagenUrl": "/images/criaturas/438.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Adosador de la Muerte",
+                "imagenUrl": "/images/criaturas/458.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2202.png"
+    },
+    {
+        "drop": "Báculo de Hechicero (DM +10)",
+        "criaturas": [
+            {
+                "porcentaje": "0.03",
+                "nombre": "Crako",
+                "imagenUrl": "/images/criaturas/219.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Medusa",
+                "imagenUrl": "/images/criaturas/367.png"
+            },
+            {
+                "porcentaje": "0.4",
+                "nombre": "Alma Cautiva",
+                "imagenUrl": "/images/criaturas/459.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Vampiresa",
+                "imagenUrl": "/images/criaturas/438.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Vampiro",
+                "imagenUrl": "/images/criaturas/434.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2611.png"
+    },
+    {
+        "drop": "Fragmento de Pendiente del Sacrificio",
+        "criaturas": [
+            {
+                "porcentaje": "0.04",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "1.5",
+                "nombre": "Kraken",
+                "imagenUrl": "/images/criaturas/574.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Egipan",
+                "imagenUrl": "/images/criaturas/500.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Hechicero de Aire",
+                "imagenUrl": "/images/criaturas/443.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Matriarca Drow",
+                "imagenUrl": "/images/criaturas/553.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Hechicero de Agua",
+                "imagenUrl": "/images/criaturas/442.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Hechicero de Fuego",
+                "imagenUrl": "/images/criaturas/433.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Hechicero de Tierra",
+                "imagenUrl": "/images/criaturas/444.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Plata",
+                "imagenUrl": "/images/criaturas/375.png"
+            },
+            {
+                "porcentaje": "2.25",
+                "nombre": "Alasto",
+                "imagenUrl": "/images/criaturas/499.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Profeta Arcano",
+                "imagenUrl": "/images/criaturas/474.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Aranhae",
+                "imagenUrl": "/images/criaturas/562.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Guardián",
+                "imagenUrl": "/images/criaturas/477.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem de Oro",
+                "imagenUrl": "/images/criaturas/1190.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gorgona",
+                "imagenUrl": "/images/criaturas/642.png"
+            },
+            {
+                "porcentaje": "0.7",
+                "nombre": "Gorath",
+                "imagenUrl": "/images/criaturas/1173.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Gólem de Hielo",
+                "imagenUrl": "/images/criaturas/377.png"
+            },
+            {
+                "porcentaje": "75",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "75",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "45",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "35",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "60",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "60",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "45",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "55",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "70",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "30",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "35",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "40",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "50",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "60",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            },
+            {
+                "porcentaje": "75",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2019.png"
+    },
+    {
+        "drop": "Escama de Dragon Verde",
+        "criaturas": [
+            {
+                "porcentaje": "5",
+                "nombre": "Cría de Dragón Verde",
+                "imagenUrl": "/images/criaturas/699.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Gran Dragón Verde",
+                "imagenUrl": "/images/criaturas/360.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3703.png"
+    },
+    {
+        "drop": "Ojo de Medusa",
+        "criaturas": [
+            {
+                "porcentaje": "0.1",
+                "nombre": "Medusa",
+                "imagenUrl": "/images/criaturas/367.png"
+            },
+            {
+                "porcentaje": "0.30",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "75",
+                "nombre": "Gorgona",
+                "imagenUrl": "/images/criaturas/642.png"
+            },
+            {
+                "porcentaje": "45",
+                "nombre": "Gorgona",
+                "imagenUrl": "/images/criaturas/642.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3812.png"
+    },
+    {
+        "drop": "Piel de Lobo Invernal",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Lobo Invernal",
+                "imagenUrl": "/images/criaturas/284.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/657.png"
+    },
+    {
+        "drop": "Pergamino Rúnico",
+        "criaturas": [
+            {
+                "porcentaje": "20",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3819.png"
+    },
+    {
+        "drop": "Anillo Mágico de Defensa",
+        "criaturas": [
+            {
+                "porcentaje": "0.8",
+                "nombre": "Behemot",
+                "imagenUrl": "/images/criaturas/498.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2008.png"
+    },
+    {
+        "drop": "Cofre Celestial (Armaduras y Tunicas)",
+        "criaturas": [
+            {
+                "porcentaje": "0.5",
+                "nombre": "Hechicero de Fuego",
+                "imagenUrl": "/images/criaturas/433.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3578.png"
+    },
+    {
+        "drop": "Escama de Dragon Negro",
+        "criaturas": [
+            {
+                "porcentaje": "8",
+                "nombre": "Cría de Dragón Negro",
+                "imagenUrl": "/images/criaturas/696.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3705.png"
+    },
+    {
+        "drop": "Escama de Dragon Rojo",
+        "criaturas": [
+            {
+                "porcentaje": "10",
+                "nombre": "Cría de Dragón Rojo",
+                "imagenUrl": "/images/criaturas/698.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3706.png"
+    },
+    {
+        "drop": "Sortija de la Verdad",
+        "criaturas": [
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Amarillo",
+                "imagenUrl": "/images/criaturas/467.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Fucsia",
+                "imagenUrl": "/images/criaturas/472.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Marron",
+                "imagenUrl": "/images/criaturas/469.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Azul",
+                "imagenUrl": "/images/criaturas/470.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Gris",
+                "imagenUrl": "/images/criaturas/468.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Verde",
+                "imagenUrl": "/images/criaturas/471.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Mago Protector",
+                "imagenUrl": "/images/criaturas/135.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Fuego Elemental Verde Oscuro",
+                "imagenUrl": "/images/criaturas/473.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2017.png"
+    },
+    {
+        "drop": "Anillo del Guardián",
+        "criaturas": [
+            {
+                "porcentaje": "0.8",
+                "nombre": "Behemot",
+                "imagenUrl": "/images/criaturas/498.png"
+            },
+            {
+                "porcentaje": "2",
+                "nombre": "Adosador de la Muerte",
+                "imagenUrl": "/images/criaturas/458.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2014.png"
+    },
+    {
+        "drop": "Báculo del Gran Hechicero (DM+15)",
+        "criaturas": [
+            {
+                "porcentaje": "0.4",
+                "nombre": "Espectro",
+                "imagenUrl": "/images/criaturas/446.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "0.02",
+                "nombre": "Banshee",
+                "imagenUrl": "/images/criaturas/996.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Castigador",
+                "imagenUrl": "/images/criaturas/447.png"
+            },
+            {
+                "porcentaje": "0.05",
+                "nombre": "Eco del Pasado",
+                "imagenUrl": "/images/criaturas/1144.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Abyssaria",
+                "imagenUrl": "/images/criaturas/1153.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "17",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2026.png"
+    },
+    {
+        "drop": "Flecha",
+        "criaturas": [
+            {
+                "porcentaje": "30",
+                "nombre": "Arquero Pirata",
+                "imagenUrl": "/images/criaturas/110.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1215.png"
+    },
+    {
+        "drop": "Corteza Onodrim",
+        "criaturas": [
+            {
+                "porcentaje": "15",
+                "nombre": "Ent",
+                "imagenUrl": "/images/criaturas/273.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1705.png"
+    },
+    {
+        "drop": "Plata",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Gólem de Plata",
+                "imagenUrl": "/images/criaturas/375.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/661.png"
+    },
+    {
+        "drop": "Orbe de Inhibición",
+        "criaturas": [
+            {
+                "porcentaje": "0.4",
+                "nombre": "Fuego fatuo",
+                "imagenUrl": "/images/criaturas/144.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Bruja",
+                "imagenUrl": "/images/criaturas/125.png"
+            },
+            {
+                "porcentaje": "0.8",
+                "nombre": "Gran Pyros",
+                "imagenUrl": "/images/criaturas/496.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Conjuradora",
+                "imagenUrl": "/images/criaturas/670.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Chamán Ártico",
+                "imagenUrl": "/images/criaturas/418.png"
+            },
+            {
+                "porcentaje": "1.5",
+                "nombre": "Cobra",
+                "imagenUrl": "/images/criaturas/1069.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Hechicero de la Oscuridad",
+                "imagenUrl": "/images/criaturas/564.png"
+            },
+            {
+                "porcentaje": "0.5",
+                "nombre": "Castigador",
+                "imagenUrl": "/images/criaturas/447.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Vespertilago",
+                "imagenUrl": "/images/criaturas/1149.png"
+            },
+            {
+                "porcentaje": "0.015",
+                "nombre": "Hechicero de Aire",
+                "imagenUrl": "/images/criaturas/443.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Matriarca Drow",
+                "imagenUrl": "/images/criaturas/553.png"
+            },
+            {
+                "porcentaje": "0.015",
+                "nombre": "Hechicero de Tierra",
+                "imagenUrl": "/images/criaturas/444.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2607.png"
+    },
+    {
+        "drop": "Garra de Tigre",
+        "criaturas": [
+            {
+                "porcentaje": "15",
+                "nombre": "Tigre",
+                "imagenUrl": "/images/criaturas/147.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/1706.png"
+    },
+    {
+        "drop": "Pollo",
+        "criaturas": [
+            {
+                "porcentaje": "100",
+                "nombre": "Gallo Salvaje",
+                "imagenUrl": "/images/criaturas/5.png"
+            },
+            {
+                "porcentaje": "100",
+                "nombre": "Gallina Salvaje",
+                "imagenUrl": "/images/criaturas/278.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/506.png"
+    },
+    {
+        "drop": "Gema Naranja",
+        "criaturas": [
+            {
+                "porcentaje": "1",
+                "nombre": "Gólem Infernal",
+                "imagenUrl": "/images/criaturas/374.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2556.png"
+    },
+    {
+        "drop": "Collar de Rykan",
+        "criaturas": [
+            {
+                "porcentaje": "0.01",
+                "nombre": "Hechicero de Agua",
+                "imagenUrl": "/images/criaturas/442.png"
+            },
+            {
+                "porcentaje": "0.01",
+                "nombre": "Hechicero de Tierra",
+                "imagenUrl": "/images/criaturas/444.png"
+            },
+            {
+                "porcentaje": "0.03",
+                "nombre": "Guardián",
+                "imagenUrl": "/images/criaturas/477.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "3",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Eishnër",
+                "imagenUrl": "/images/criaturas/1211.png"
+            },
+            {
+                "porcentaje": "4",
+                "nombre": "Archimago Abisal",
+                "imagenUrl": "/images/criaturas/644.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/4.png"
+    },
+    {
+        "drop": "Petalo de Sakura",
+        "criaturas": [
+            {
+                "porcentaje": "2",
+                "nombre": "Ryuji",
+                "imagenUrl": "/images/criaturas/1276.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Hayato",
+                "imagenUrl": "/images/criaturas/1275.png"
+            },
+            {
+                "porcentaje": "7",
+                "nombre": "Kazan",
+                "imagenUrl": "/images/criaturas/1274.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Tatsu",
+                "imagenUrl": "/images/criaturas/1273.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Nue",
+                "imagenUrl": "/images/criaturas/1272.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3701.png"
+    },
+    {
+        "drop": "Roca Ignea",
+        "criaturas": [
+            {
+                "porcentaje": "15",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/3816.png"
+    },
+    {
+        "drop": "Gorro Mágico (RM +20)",
+        "criaturas": [
+            {
+                "porcentaje": "0.4",
+                "nombre": "Espectro",
+                "imagenUrl": "/images/criaturas/446.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Medusa Matriarch",
+                "imagenUrl": "/images/criaturas/368.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Castigador",
+                "imagenUrl": "/images/criaturas/447.png"
+            },
+            {
+                "porcentaje": "0.15",
+                "nombre": "Eco del Pasado",
+                "imagenUrl": "/images/criaturas/1144.png"
+            },
+            {
+                "porcentaje": "0.2",
+                "nombre": "Egipan",
+                "imagenUrl": "/images/criaturas/500.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Hechicero de Aire",
+                "imagenUrl": "/images/criaturas/443.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Hechicero de Agua",
+                "imagenUrl": "/images/criaturas/442.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Hechicero de Fuego",
+                "imagenUrl": "/images/criaturas/433.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Hechicero de Tierra",
+                "imagenUrl": "/images/criaturas/444.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Dragón Azul",
+                "imagenUrl": "/images/criaturas/359.png"
+            },
+            {
+                "porcentaje": "8",
+                "nombre": "Gran Dragón Rojo",
+                "imagenUrl": "/images/criaturas/358.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Djinn",
+                "imagenUrl": "/images/criaturas/998.png"
+            },
+            {
+                "porcentaje": "12",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "20",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2029.png"
+    },
+    {
+        "drop": "Túnica de Absorción Mágica (RM +15)",
+        "criaturas": [
+            {
+                "porcentaje": "0.25",
+                "nombre": "Castigador",
+                "imagenUrl": "/images/criaturas/447.png"
+            },
+            {
+                "porcentaje": "0.15",
+                "nombre": "Vampiro",
+                "imagenUrl": "/images/criaturas/434.png"
+            },
+            {
+                "porcentaje": "0.1",
+                "nombre": "Eco del Pasado",
+                "imagenUrl": "/images/criaturas/1144.png"
+            },
+            {
+                "porcentaje": "0.3",
+                "nombre": "Nue",
+                "imagenUrl": "/images/criaturas/1272.png"
+            },
+            {
+                "porcentaje": "0.15",
+                "nombre": "Alasto",
+                "imagenUrl": "/images/criaturas/499.png"
+            },
+            {
+                "porcentaje": "1",
+                "nombre": "Profeta Arcano",
+                "imagenUrl": "/images/criaturas/474.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Vampiro Transformado",
+                "imagenUrl": "/images/criaturas/463.png"
+            },
+            {
+                "porcentaje": "5",
+                "nombre": "Gran Hechicero Garveloth",
+                "imagenUrl": "/images/criaturas/480.png"
+            },
+            {
+                "porcentaje": "10",
+                "nombre": "Gran Dragón Negro",
+                "imagenUrl": "/images/criaturas/362.png"
+            },
+            {
+                "porcentaje": "15",
+                "nombre": "Dragón Legendario",
+                "imagenUrl": "/images/criaturas/361.png"
+            },
+            {
+                "porcentaje": "25",
+                "nombre": "Rey Dragón",
+                "imagenUrl": "/images/criaturas/432.png"
+            }
+        ],
+        "imagenUrl": "/images/drops/2203.png"
+    }
 ]
